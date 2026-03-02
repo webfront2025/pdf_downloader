@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+downloads_test/
+*.xlsx
+*.csv
+.env
+venv/

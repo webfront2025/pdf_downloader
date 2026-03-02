@@ -1,0 +1,986 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>永續報告書-車用半導體的領導者!</title>
+    <base href="https://www.actron.com.tw/">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
+    <link rel="canonical" href="https://www.actron.com.tw/esg/tw/sustainability-report" />
+    <link rel="alternate" hreflang="zh-TW" href="https://www.actron.com.tw/esg/tw/sustainability-report" />
+    <meta name="title" content="永續報告書-車用半導體的領導者!">
+    <meta name="description" content="朋程在汽車市場上擁有超過 20 年的功率元件製造能力和經驗，其車用半導體工程團隊積累了豐富的行業經驗. 從傳統的燃油車用半導體二極體開始，更進一步開發了面向未來的功率元件和模組產品, 例如: IGBT, SiC。我們有自信作為可靠的合作夥伴，並為車載部件的產品質量保證。Actron 致力於領導電動車動力半導體市場，成為車用半導體的領導者。">
+    <meta name="keywords" content="朋程, 功率元件晶圓, 功率模組, 智慧型功率模組, 功率離散元件, 整流器, 全/半僑整流, 車用半導體封裝, 車用二極體, 低損耗二極體, 超低損耗二極體, 場效電晶體, 絕緣閘極雙極性電晶體, 碳化矽功率元件, 碳化矽功率模組">
+    <meta name="author" content="朋程科技股份有限公司">
+    <meta name="copyright" content="朋程科技股份有限公司">
+    <meta property="og:title" content="車用半導體的領導者!">
+    <meta property="og:description" content="朋程在汽車市場上擁有超過 20 年的功率元件製造能力和經驗，其車用半導體工程團隊積累了豐富的行業經驗. 從傳統的燃油車用半導體二極體開始，更進一步開發了面向未來的功率元件和模組產品, 例如: IGBT, SiC。我們有自信作為可靠的合作夥伴，並為車載部件的產品質量保證。Actron 致力於領導電動車動力半導體市場，成為車用半導體的領導者。">
+    <meta property="og:locale" content="zh-TW">
+    <meta property="og:rich_attachment" content="true">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.actron.com.tw/esg/tw/sustainability-report">
+    <meta property="og:image" content="https://www.actron.com.tw/assets/img/default-tw.png">
+    <meta property="og:image:type" content="png">
+    <meta property="og:image:width" content="0">
+    <meta property="og:image:height" content="0">
+    <link rel="stylesheet" href="assets/ContentBuilder/assets/minimalist-blocks/content.css">
+    <!-- <link rel="stylesheet" href="assets/css/all.css" /> -->
+    <link rel="stylesheet" href="assets/css/all.css">
+    
+    
+<script src="assets/js/master-css.js"></script>
+<script>
+  MasterStyle.extend('colors', {
+    primary: '0067B8',
+    secondary: '41ABFF',
+    primaryDark:'145C95',
+    contentBg:'ECEDEE',
+  });
+</script>
+    <!-- Google Tag Manager -->
+    <script defer>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5N4NLP55');</script>
+</head>
+<body>
+  <header class="l-header">
+  <div class="l-header__main">
+    <a href="https://www.actron.com.tw/esg/tw" class="ml:40 w:220 {w:335;left:50}@lg">
+      <img src="assets/img/esg/esg-logo.svg" alt=" Actron Technology Corporation" />
+    </a>
+    <button type="button" class="l-header__btn" data-href="root">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <div class="l-header__nav">
+      <div class="l-nav">
+        <div class="l-nav__menu">
+          <ul class="l-nav__list">
+            <li class="l-nav__item">
+              <a href="esg/tw/corporate-sustainability" class="l-nav__link">
+                <h4>企業永續經營發展</h4>
+              </a>
+              <div class="l-nav__dropdown l-nav__dropdown--default">
+                <div class="nav-bgouter">
+                  <div class="grid-cols:3 gap-x:66 w:80vw py:40 m:auto">
+                                        <div class="each">
+                      <h6><a href="esg/tw/corporate-sustainability">經營者的話</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/corporate-sustainability/永續推行理念">永續推行理念</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/corporate-sustainability/永續治理架構">永續治理架構</a></h6>
+                    </div>
+                                      </div>
+                </div>
+              </div>
+            </li>
+
+            <li class="l-nav__item">
+              <a class="l-nav__link" href="esg/tw/stakeholder">
+                <h4>利害關係人專區</h4>
+              </a>
+              <div class="l-nav__dropdown l-nav__dropdown--default">
+                <div class="nav-bgouter">
+                  <div class="grid-cols:3 gap-x:66 w:80vw py:40 m:auto">
+                                        <div class="each">
+                      <h6><a href="esg/tw/stakeholder">利害關係人議合管理</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/stakeholder/重大主題">重大主題</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/stakeholder/利害關係人連絡資訊">利害關係人連絡資訊</a></h6>
+                    </div>
+                                      </div>
+                </div>
+              </div>
+            </li>
+
+            <li class="l-nav__item">
+              <a class="l-nav__link" href="esg/tw/environment">
+                <h4>環境關懷</h4>
+              </a>
+              <div class="l-nav__dropdown l-nav__dropdown--default">
+                <div class="nav-bgouter mb:-8">
+                  <div class="grid-cols:4 gap-x:45 gap-y:8 w:80vw py:40 m:auto">
+                                        <div class="each">
+                      <h6><a href="esg/tw/environment">環境管理系統與目標</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/environment/能資源管理">能資源管理</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/environment/污染防治管理">污染防治管理</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/environment/綠色節能產品">綠色節能產品</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/environment/供應鏈管理">供應鏈管理</a></h6>
+                    </div>
+                                      </div>
+                </div>
+              </div>
+            </li>
+            <li class="l-nav__item">
+              <a class="l-nav__link" href="esg/tw/employee">
+                <h4>員工關懷</h4>
+              </a>
+              <div class="l-nav__dropdown l-nav__dropdown--default">
+                <div class="nav-bgouter mb:-8">
+                  <div class="grid-cols:4 gap-x:45 gap-y:8 w:80vw py:40 m:auto">
+                                        <div class="each">
+                      <h6><a href="esg/tw/employee">人權與員工溝通</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/employee/人員結構與管理">人員結構與管理</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/employee/薪酬福利">薪酬福利</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/employee/學習發展">學習發展</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/employee/職業健康與安全">職業健康與安全</a></h6>
+                    </div>
+                                      </div>
+                </div>
+              </div>
+            </li>
+            <li class="l-nav__item">
+              <a class="l-nav__link" href="esg/tw/social-participation">
+                <h4>社會參與</h4>
+              </a>
+              <div class="l-nav__dropdown l-nav__dropdown--default">
+                <div class="nav-bgouter mb:-8">
+                  <div class="grid-cols:4 gap-x:45 gap-y:8 w:80vw py:40 m:auto">
+                                        <div class="each">
+                      <h6><a href="esg/tw/social-participation">環境關懷活動</a></h6>
+                    </div>
+                                        <div class="each">
+                      <h6><a href="esg/tw/social-participation/社會關懷活動">社會關懷活動</a></h6>
+                    </div>
+                                      </div>
+                </div>
+              </div>
+            </li>
+            <li class="l-nav__item">
+              <a href="tw/ir/governance" class="l-nav__link">
+                <h4>公司治理</h4>
+              </a>
+            </li>
+
+            <li class="l-nav__item">
+              <a href="esg/tw/sustainability-report" class="l-nav__link">
+                <h4>永續報告書</h4>
+              </a>
+            </li>
+            <li class="l-nav__item csr-navi-other">
+              <a href="javascript:;" class="l-nav__link">
+                <div class="navi-outer-btn">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+              </a>
+              <div class="l-nav__dropdown l-nav__dropdown--default">
+                <div class="nav-bgouter">
+                  <div class="grid-cols:3 gap-x:66 w:80vw py:40 m:auto">
+                    <div class="each">
+                      <h6><a href="tw/ir/governance" target="_blank">公司治理</a></h6>
+                    </div>
+                    <div class="each hide!:lang(en)">
+                      <h6><a href="esg/tw/news">最新消息</a></h6>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+
+
+            <!-- <li class="l-nav__item rel">
+              <a class="l-nav__link">
+                <svg width="24" height="24" viewBox="0 0 24 24" class="mr:10">
+                  <g id="Group_1074" data-name="Group 1074" transform="translate(-1388 108)">
+                    <g id="Ellipse_110" data-name="Ellipse 110" transform="translate(1388 -108)" fill="none"
+                      stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                      <circle cx="12" cy="12" r="12" stroke="none" />
+                      <circle cx="12" cy="12" r="11" fill="none" />
+                    </g>
+                    <line id="Line_58" data-name="Line 58" x2="22" transform="translate(1388.5 -95.5)" fill="none"
+                      stroke="#666" stroke-width="1" />
+                    <line id="Line_59" data-name="Line 59" x2="20" transform="translate(1390.5 -100.5)" fill="none"
+                      stroke="#666" stroke-width="1" />
+                    <line id="Line_60" data-name="Line 60" x2="20" transform="translate(1390.5 -90.5)" fill="none"
+                      stroke="#666" stroke-width="1" />
+                    <line id="Line_61" data-name="Line 61" x2="22" transform="translate(1400.5 -106.5) rotate(90)"
+                      fill="none" stroke="#666" stroke-width="1" />
+                    <g id="Ellipse_111" data-name="Ellipse 111" transform="translate(1394 -108)" fill="none"
+                      stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+                      <ellipse cx="6" cy="12" rx="6" ry="12" stroke="none" />
+                      <ellipse cx="6" cy="12" rx="5.5" ry="11.5" fill="none" />
+                    </g>
+                  </g>
+                </svg>
+                TW
+
+              </a>
+              <div class="l-nav__dropdown l-nav__dropdown--single">
+                <ul>
+                  <li>
+                    <a href="#">TW</a>
+                  </li>
+                  <li>
+                    <a href="#">EN</a>
+                  </li>
+                  <li>
+                    <a>JP</a>
+                  </li>
+
+                </ul>
+              </div>
+            </li> -->
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!--mb menu start-->
+
+    <div class="l-mobile-nav" data-menu="root">
+      <ul class="l-mobile-nav__list">
+
+        <li class="l-mobile-nav__item">
+          <div class="l-mobile-nav__header ovlink">
+            <a href="esg/tw/corporate-sustainability">企業永續經營發展</a>
+            <div class="l-mobile-nav__collapse"></div>
+          </div>
+          <ul>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/corporate-sustainability">經營者的話</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/corporate-sustainability/永續推行理念">永續推行理念</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/corporate-sustainability/永續治理架構">永續治理架構</a>
+            </li>
+            
+          </ul>
+        </li>
+
+
+        <li class="l-mobile-nav__item">
+          <div class="l-mobile-nav__header ovlink">
+            <a href="esg/tw/stakeholder">利害關係人專區</a>
+            <div class="l-mobile-nav__collapse"></div>
+          </div>
+          <ul>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/stakeholder">利害關係人議合管理</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/stakeholder/重大主題">重大主題</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/stakeholder/利害關係人連絡資訊">利害關係人連絡資訊</a>
+            </li>
+                      </ul>
+        </li>
+        <li class="l-mobile-nav__item">
+          <div class="l-mobile-nav__header ovlink">
+            <a href="esg/tw/environment">環境關懷</a>
+            <div class="l-mobile-nav__collapse"></div>
+          </div>
+          <ul>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/environment">環境管理系統與目標</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/environment/能資源管理">能資源管理</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/environment/污染防治管理">污染防治管理</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/environment/綠色節能產品">綠色節能產品</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/environment/供應鏈管理">供應鏈管理</a>
+            </li>
+                      </ul>
+        </li>
+
+        <li class="l-mobile-nav__item">
+          <div class="l-mobile-nav__header ovlink">
+            <a href="esg/tw/employee">員工關懷</a>
+            <div class="l-mobile-nav__collapse"></div>
+          </div>
+          <ul>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/employee">人權與員工溝通</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/employee/人員結構與管理">人員結構與管理</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/employee/薪酬福利">薪酬福利</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/employee/學習發展">學習發展</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/employee/職業健康與安全">職業健康與安全</a>
+            </li>
+                      </ul>
+        </li>
+
+        <li class="l-mobile-nav__item">
+          <div class="l-mobile-nav__header ovlink">
+            <a href="esg/tw/social-participation">社會參與</a>
+            <div class="l-mobile-nav__collapse"></div>
+          </div>
+          <ul>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/social-participation">環境關懷活動</a>
+            </li>
+                        <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="esg/tw/social-participation/社會關懷活動">社會關懷活動</a>
+            </li>
+                      </ul>
+        </li>
+        <li class="l-mobile-nav__item">
+          <a class="l-mobile-nav__link" href="tw/ir/governance" target="_blank">
+            公司治理          </a>
+        </li>
+        <li class="l-mobile-nav__item">
+          <a class="l-mobile-nav__link" href="esg/tw/sustainability-report">
+            永續報告書          </a>
+        </li>
+        <li class="l-mobile-nav__item hide:lang(en)">
+          <a class="l-mobile-nav__link" href="esg/tw/news">
+            最新消息          </a>
+        </li>
+        <li class="l-mobile-nav__item">
+          <a class="l-mobile-nav__link" href="https://www.actron.com.tw/" target="_blank">
+            回朋程官網          </a>
+        </li>
+
+        <!-- <li class="l-mobile-nav__item">
+          <div class="l-mobile-nav__header ovlink">
+            <a>語系</a>
+            <div class="l-mobile-nav__collapse"></div>
+          </div>
+          <ul>
+            <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="#"> 繁體中文 </a>
+            </li>
+            <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="#">
+                English
+              </a>
+            </li>
+            <li class="l-mobile-nav__item">
+              <a class="l-mobile-nav__link gray" href="#">
+                日本語
+              </a>
+            </li>
+          </ul>
+        </li> -->
+      </ul>
+
+    </div>
+  </div>
+</header>
+
+    <main>
+        <div class="c-banner about-banner">
+            <picture class="c-banner__media">
+                <source media="(min-width: 1440px)" srcset="assets/img/esg/esg-banner-6-xl.jpg" />
+                <source media="(min-width: 481px)" srcset="assets/img/esg/esg-banner-6-lg.jpg" />
+                <img src="assets/img/esg/esg-banner-6-xs.jpg" class="abs left:1/2 top:1/2 w:full h:full translate(-50%,-50%) object-fit:cover" />
+            </picture>
+            <div class="c-banner__content ">
+                <h1 class="f:white lh:1.14 " data-aos="fade-up" data-aos-delay="250">
+                    永續報告書                </h1>
+
+            </div>
+        </div>
+        <!---->
+        <div class="bg:contentBg">
+            <div class="c-breadcrumb">
+                <div class="l-wrapper-large">
+                    <ul class="c-breadcrumb__list" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                        <li class="c-breadcrumb__item" itemprop="itemListElement" itemscope=""
+                            itemtype="http://schema.org/ListItem">
+                            <a class="c-breadcrumb__link" itemprop="item" href="https://www.actron.com.tw/esg/tw"><span
+                                    itemprop="name">首頁</span></a>
+                            <meta itemprop="position" content="1" />
+                        </li>
+                        <li class="c-breadcrumb__item" itemprop="itemListElement" itemscope=""
+                            itemtype="http://schema.org/ListItem">
+                            <a class="c-breadcrumb__link" itemprop="item" href="https://www.actron.com.tw/esg/tw/sustainability-report"><span itemprop="name"> 永續報告書</span>
+                            </a>
+                            <meta itemprop="position" content="2" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!--breadcrumb end-->
+
+            <!---->
+            <div class="pt:30 pb:60 {pt:50;pb:100}@md">
+                <div class="l-wrapper">
+                    <div
+                        class="rel flex@md flex:nowrap@md pt:20 mb:40 bb:1|solid|#CCCCCC {content:'';abs;bottom:-1;left:0;z:1;w:80;h:1;bb:1|solid|primary}:after mb:60@sm">
+                        <h3 class="mb:10 lh:1.357">2024年永續報告書</h3>
+                    </div>
+                    <!---->
+                                        <div class="{grid-cols:2;gap-x:45;flex;ai:center;mb:50}@sm">
+                        <div data-aos="fade-up" data-aos-delay="0"><img src="/uploads/images/esg/2024ESG/2024cover.jpg" class="mb:20@<sm"></div>
+                        <div data-aos="fade-up" data-aos-delay="250">
+                                                        <a href="esg/tw/sustainability-report/questionnaire/17?type=1"                                class="downbtn1 flex ai:center mb:10 f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                <svg width="17" height="17" viewBox="0 0 17 17"
+                                    class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                    <path id="Path_114" data-name="Path 114" d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                        transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                        stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                    <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                        transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                        stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                </svg>
+                                2024 年永續報告書                                <img src="assets/img/icon/i-ask-arrow.svg"
+                                    class="translateX(10) ~transform|.3s,opacity|.3s" />
+                            </a>
+                                                                                    <a href="esg/tw/sustainability-report/questionnaire/17?type=2"                                class="downbtn2 flex ai:center mb:10 f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                <svg width="17" height="17" viewBox="0 0 17 17"
+                                    class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                    <path id="Path_114" data-name="Path 114" d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                        transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                        stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                    <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                        transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                        stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                </svg>
+                                2024 ESG report                                <img src="assets/img/icon/i-ask-arrow.svg"
+                                    class="translateX(10) ~transform|.3s,opacity|.3s" />
+                            </a>
+                                                    </div>
+                    </div>
+                    <!---->
+                    <div data-aos="fade-up" data-aos-delay="250">
+                        <div
+                        class="rel flex@md flex:nowrap@md pt:20 bb:1|solid|#CCCCCC {content:'';abs;bottom:-1;left:0;z:1;w:80;h:1;bb:1|solid|primary}:after ">
+                          <h3 class="mb:10 lh:1.357">歷年報告書</h3>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2023年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/16?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2023 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                        <a href="esg/tw/sustainability-report/questionnaire/16?type=2"                                            class="downbtn2 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2023 ESG report                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2022年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/1?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2022 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                        <a href="esg/tw/sustainability-report/questionnaire/1?type=2"                                            class="downbtn2 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2022 ESG report                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2021年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/2?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2021 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                        <a href="esg/tw/sustainability-report/questionnaire/2?type=2"                                            class="downbtn2 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2021 ESG report                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2020年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/3?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2020 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                    </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2019年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/4?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2019 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                    </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2018年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/5?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2018 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                    </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2017年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/6?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2017 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                    </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2016年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/14?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2016 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                    </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                                                <div class="esg-allyear-report rel p:10|20 bb:1|solid|#9ACEF6 overflow:hidden cursor:pointer">
+                            <div class="">
+                                <p>2015年</p>
+                                <div class="more-content mt:10 mr:50 pt:10 bt:1|dashed|#adadad">
+                                    <div class="mb:-10@<sm {inline-flex;mr:50;mb:10}>a {flex;flex:nowrap;mb:0}@sm">
+                                                                                <a href="esg/tw/sustainability-report/questionnaire/15?type=1"                                            class="downbtn1 flex ai:center f:primary stroke:#0067B8:hover_path f:primary:hover {translateX(30);opacity:1}:hover_img ~transform|.3s">
+                                            <svg width="17" height="17" viewBox="0 0 17 17"
+                                                class="inline-block mr:10 ~transform|.3s,opacity|.3s stroke:#999">
+                                                <path id="Path_114" data-name="Path 114"
+                                                    d="M1118.659,744.772v13h16v-11h-3l-2-2Z"
+                                                    transform="translate(-1118.158 -741.272)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                                <path id="Path_115" data-name="Path 115" d="M1119.3,741.474v-1h13l2,2v1"
+                                                    transform="translate(-1118.802 -739.974)" fill="none" stroke="#999"
+                                                    stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                                            </svg>
+                                            2015 年永續報告書                                            <img src="assets/img/icon/i-ask-arrow.svg"
+                                                class="translateX(10) ~transform|.3s,opacity|.3s" />
+                                        </a>
+                                                                                                                    </div>
+                                </div>
+                            </div>
+                            <span
+                                class="open-link abs right:20 top:10 top:15@sm  w:24 h:24 rounded ~ease-in|.2s {grayscale(100);opacity:0.5;rotate(-90);~rotate|.3s,transform|.3s}_img {grayscale(0);opacity:1;rotate(0)}.is-active_img">
+                                <img src="assets/img/esg/i-report-next.svg">
+                            </span>
+                        </div>
+                        
+                    </div>
+
+                    <!--分頁-->
+                    <div class="text:center mt:20" data-aos="fade-up" data-aos-delay="500">
+                                        </div>
+                </div>
+            </div>
+            <!--page content end-->
+        </div>
+
+        <!---->
+    </main>
+    <footer>
+  <!---->
+  <div class="py:40 py:40@md pt:40@lg pb:80@lg">
+    <div class="l-wrapper-large flex@lg flex:wrap ai:flex-start jc:space-between">
+      <div class="hide@<lg w:50% w:44%@xl {grid-cols:3;gap:60}@lg gap:60@2xl">
+        <ul class="list-style:none m:0 p:0 {mb:10;f:#999;lh:1.5}_li {f:#222}_li:first-child">
+          <li class="f:18 f:#222 mb:1rem! ">企業永續經營發展</li>
+                    <li><a href="esg/tw/corporate-sustainability">經營者的話</a></li>
+                    <li><a href="esg/tw/corporate-sustainability/永續推行理念">永續推行理念</a></li>
+                    <li><a href="esg/tw/corporate-sustainability/永續治理架構">永續治理架構</a></li>
+                    <li class="f:18 f:#222! mt:30">利害關係人專區</li>
+                    <li><a href="esg/tw/stakeholder">利害關係人議合管理</a></li>
+                    <li><a href="esg/tw/stakeholder/重大主題">重大主題</a></li>
+                    <li><a href="esg/tw/stakeholder/利害關係人連絡資訊">利害關係人連絡資訊</a></li>
+                  </ul>
+        <ul class="list-style:none m:0 p:0 {mb:10;f:#999;lh:1.5}_li {f:#222}_li:first-child">
+          <li class="f:18 f:#222">環境關懷</li>
+                    <li><a href="esg/tw/environment">環境管理系統與目標</a></li>
+                    <li><a href="esg/tw/environment/能資源管理">能資源管理</a></li>
+                    <li><a href="esg/tw/environment/污染防治管理">污染防治管理</a></li>
+                    <li><a href="esg/tw/environment/綠色節能產品">綠色節能產品</a></li>
+                    <li><a href="esg/tw/environment/供應鏈管理">供應鏈管理</a></li>
+          
+          <li class="f:18 f:#222! mt:30 ">員工關懷</li>
+                    <li><a href="esg/tw/employee">人權與員工溝通</a></li>
+                    <li><a href="esg/tw/employee/人員結構與管理">人員結構與管理</a></li>
+                    <li><a href="esg/tw/employee/薪酬福利">薪酬福利</a></li>
+                    <li><a href="esg/tw/employee/學習發展">學習發展</a></li>
+                    <li><a href="esg/tw/employee/職業健康與安全">職業健康與安全</a></li>
+                  </ul>
+
+        <ul class="list-style:none m:0 p:0 {mb:10;f:#999;lh:1.5}_li {f:#222}_li:first-child">
+          <li class="f:18 f:#222">社會參與</li>
+                    <li><a href="esg/tw/social-participation">環境關懷活動</a></li>
+                    <li><a href="esg/tw/social-participation/社會關懷活動">社會關懷活動</a></li>
+          
+          <li class="f:#222! mt:30"><a href="esg/tw/sustainability-report">永續報告書</a></li>
+          <li class="f:#222! mt:20"><a href="tw/ir/governance">公司治理</a></li>
+          <li class="f:#222! mt:20 hide:lang(en)"><a href="esg/tw/news">最新消息</a></li>
+          <li class="f:#222! mt:20"><a href="https://www.actron.com.tw/" target="_blank">回朋程官網</a></li>
+        </ul>
+      </div>
+
+      <div class="hide@<lg grid-auto-cols:auto gap-x:30 px:30 {w:33%;px:60}@xl ">
+        <div class="rel pb:15 mb:15 bb:1|solid|#CCCCCC {content:'';abs;bottom:-1;left:0;z:1;w:80;h:1;bb:1|solid|primary}:after ">
+          <h6 class="lh:1">聯絡我們</h6>
+        </div>
+        <div>
+          <p class="mb:30">若您對朋程科技永續發展有任何的疑問或者建議，歡迎來電或透過郵件與我們對話。</p>
+          <p>
+            ESG聯絡人：<br>
+            陳小姐  聯絡電話：03-3115555 分機321<br>
+            洪小姐  聯絡電話：03-3115555 分機261<br>
+            信箱：<a href="mailto:CSR@actron.com.tw" class="f:primary">CSR@actron.com.tw</a>
+          </p>
+        </div>
+
+      </div>
+      <div class="text:center text:right@lg w:23%@xl">
+        <div class="footer-social flex jc:center jc:end@lg mx:15>a>img ml:10>a>img@<lg mr:0>a>img@<lg">
+          <a href="https://www.facebook.com/p/朋程志工隊-100071959927409/?paipv=0&eav=AfYYaTAdwq5R7rDI8OzSxCJibpoPL7sPPbsaRLZJNbZpA4WmqKbuBr-d1Z3hU4VueUw&_rdr" target="_blank">
+            <img src="assets/img/icon/i-fb.svg">
+            <img src="assets/img/icon/i-fb-ov.svg">
+          </a>
+
+        </div>
+        <div class="w:full max-w:180 my:20 d:inline-block">
+
+          <!-- <div class="rel">
+            <select
+              class="block w:full h:50 px:20 mt:6 b:1|solid|#CBD7E2 f:#9CAAB7 r:25 ~border-color|.2s {b:primary;f:primary}:focus f:black_option">
+              <option value="0">繁體中文</option>
+              <option value="1">Egnlish</option>
+
+            </select>
+            <svg width="8" height="6" viewBox="0 0 8 6" class="abs top:20 right:20 pointer-events:none">
+              <path id="Polygon_1" data-name="Polygon 1" d="M4,0,8,6H0Z" transform="translate(8 6) rotate(180)"
+                fill="#9caab7" />
+            </svg>
+
+          </div> -->
+        </div>
+        <p class="f:#9CAAB7 mb:20">桃園市蘆竹區南崁路二段22號<br>
+          <a href="tel:03-311-5555">03-311-5555</a></p>
+        <p>版權所有 © 朋程科技股份有限公司</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<button type="button" class="c-top">
+  <svg xmlns="http://www.w3.org/2000/svg" width="25.999" height="11" viewBox="0 0 25.999 11">
+    <path id="i-side-top" d="M2,30,9.583,17,2,4H5.416L13,17,5.416,30Z" transform="translate(-4.001 13) rotate(-90)"
+      fill="#fff" />
+  </svg>
+</button>
+
+<div class="c-cookie">
+  <div class="l-wrapper">
+    <div class="c-cookie__main">
+      <p>
+        本網站使用cookies，若您繼續瀏覽本網站，代表您同意我們使用cookies，若您不同意，請透過瀏覽器設定選擇拒絕接受。
+      </p>
+      <a href="javascript:;" class="c-btn c-btn--default min-w:unset!">我同意</a>
+    </div>
+  </div>
+</div>
+    <script src="assets/js/vendor.js"></script>
+<script src="assets/js/app.js"></script>
+    <script type="text/javascript">
+      let downurl = 'https://www.actron.com.tw/esg/tw/sustainability-report/downfiles1';
+      document.addEventListener("DOMContentLoaded", function() {
+        const downbtn1s = document.querySelectorAll(".downbtn1");
+        downbtn1s.forEach((downbtn1, index) => {
+          downbtn1.addEventListener("click", function (e) {
+            let val = this.dataset.index;
+            if(val) {
+              url = downurl + "?gid=" + val;
+              fetch(url, { method: "get" })
+                .then(function (response) {
+                  if (!response.ok) {
+                    return response.text().then((text) => {
+                      throw new Error(text);
+                    });
+                  }
+                  return response.json();
+                })
+                .then(function (j) {
+                  if (j.error) {
+                    alert(j.error);
+                    return;
+                  }
+                  if (j.url) {
+                    var ifrm = $("<iframe style='display:none' />");
+                    ifrm.attr("src", j.url);
+                    ifrm.appendTo("body");
+                    ifrm.load(function () {
+                      $("body").append("<div>Failed to download !");
+                    });
+                  }
+                })
+                .catch(function (err) {});
+              }
+            });
+          });
+          let down2url = 'https://www.actron.com.tw/esg/tw/sustainability-report/downfiles2';
+          const downbtn2s = document.querySelectorAll(".downbtn2");
+          downbtn2s.forEach((downbtn2, index) => {
+            downbtn2.addEventListener("click", function (e) {
+              let val = this.dataset.index;
+              if(val) {
+                url = down2url + "?gid=" + val;
+                fetch(url, { method: "get" })
+                  .then(function (response) {
+                    if (!response.ok) {
+                      return response.text().then((text) => {
+                        throw new Error(text);
+                      });
+                    }
+                    return response.json();
+                  })
+                  .then(function (j) {
+                    if (j.error) {
+                      alert(j.error);
+                      return;
+                    }
+                    if (j.url) {
+                      var ifrm = $("<iframe style='display:none' />");
+                      ifrm.attr("src", j.url);
+                      ifrm.appendTo("body");
+                      ifrm.load(function () {
+                        $("body").append("<div>Failed to download !");
+                      });
+                    }
+                  })
+                  .catch(function (err) {});
+                }
+            });
+          });
+        });
+    </script>
+</body>
+
+</html>
+<script type="text/javascript">
+if (window.location.hash) {
+  let number =
+    window.location.hash.split("#section")[window.location.hash.split("#section").length - 1];
+  if ($('#js-career'+number)) {
+    let sectionTarget = $('#js-career'+number).offset().top;
+    $('html,body').stop().animate(
+      {
+        scrollTop: sectionTarget - 80,
+      },
+      800
+    );
+  }
+}
+$(function () {
+  $('[name="lselect"]').change(function () {
+    top.location.href=$(this).val()
+  })
+})
+</script>

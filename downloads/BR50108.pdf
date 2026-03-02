@@ -1,0 +1,2979 @@
+
+
+
+<!DOCTYPE html>
+<html xml:lang="es" lang="es">
+<head>
+<meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"/>
+
+<meta name="language" content="es">
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/dam/umivale-activa/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/dam/umivale-activa/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/dam/umivale-activa/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/dam/umivale-activa/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/dam/umivale-activa/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/dam/umivale-activa/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/dam/umivale-activa/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/dam/umivale-activa/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/dam/umivale-activa/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/dam/umivale-activa/favicons/favicon-192x192.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/dam/umivale-activa/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/dam/umivale-activa/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/dam/umivale-activa/favicons/favicon-16x16.png">
+
+
+
+    
+    <link rel="canonical" href="https://umivaleactiva.es/" />
+    
+
+
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+
+<link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/lato-family.css" />
+<link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/material-icons.css" />
+<script src="/.resources/umivale-templates-module/webresources/js/core/jquery.min.js"></script>
+<link href="/.resources/umivale-templates-module/webresources/css/umivale-fonts.css" rel="stylesheet">
+
+
+    <title>Umivale Activa, Mutua Colaboradora con la Seguridad Social 3</title>
+
+<link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/umivaleactiva-cookies.css" />
+
+ <link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/umivale-web-styles.css" />
+ <link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/umivale-extra-styles.css" />
+
+	<script src="/.resources/umivale-templates-module/webresources/js/material.min~2026-02-13-06-42-26-000~cache.js"></script>
+	<script src="/.resources/umivale-templates-module/webresources/js/popper.min~2026-02-13-06-42-26-000~cache.js"></script>
+	<script src="/.resources/umivale-templates-module/webresources/js/nouislider.min~2026-02-13-06-42-26-000~cache.js"></script>
+	<script src="/.resources/umivale-bootstrap-module/js/bootstrap-datepicker~2026-02-13-06-43-28-000~cache.js"></script>
+	<script src="/.resources/umivale-templates-module/webresources/js/material-kit~2026-02-13-06-42-26-000~cache.js"></script>
+	<script src="/.resources/umivale-templates-module/webresources/js/bootstrap.min~2026-02-13-06-42-26-000~cache.js"></script>
+	<script src="/.resources/umivale-templates-module/webresources/js/custom~2026-02-13-06-42-26-000~cache.js"></script>
+	<script src="/.resources/umivale-templates-module/webresources/js/profileUtils~2026-02-13-06-42-26-000~cache.js"></script>
+	<script src="/.resources/umivale-templates-module/webresources/js/jquery.notify~2026-02-13-06-42-26-000~cache.js"></script>
+
+    
+		<link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/bootstrap.min~2026-02-13-06-42-26-000~cache.css" media="all" />
+    
+    
+		<link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/material-kit~2026-02-13-06-42-26-000~cache.css" media="all" />
+    
+    
+		<link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/easyTree~2026-02-13-06-42-26-000~cache.css" media="all" />
+    
+    
+		<link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/notify~2026-02-13-06-42-26-000~cache.css" media="all" />
+    
+    
+		<link rel="stylesheet" type="text/css" href="/.resources/umivale-bootstrap-module/css/fonts/century-gothic-font~2026-02-13-06-43-28-000~cache.css" media="all" />
+    
+    
+		<link rel="stylesheet" type="text/css" href="/.resources/umivale-templates-module/webresources/css/font-awesome.min~2026-02-13-06-42-26-000~cache.css" media="all" />
+    
+
+
+  
+	<!--<link href="/dam/jcr:32f227dd-727c-44a6-b682-1097bdb73ae2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link rel="icon" href="/dam/jcr:32f227dd-727c-44a6-b682-1097bdb73ae2/favicon.ico" />-->
+
+
+
+<!-- Metadatos Social Media: BEGIN -->
+
+    <!-- Meta title and generals -->
+        <!--<meta property="og:type" content="article" />-->
+        <!--<meta property="og:title" content="Umivale Activa, Mutua Colaboradora con la Seguridad Social 3" />-->
+    <!-- Meta twitter title and generals -->    
+        <!--<meta name="twitter:card" content="summary" />-->
+        <!--<meta name="twitter:title" content="Umivale Activa, Mutua Colaboradora con la Seguridad Social 3" />-->
+    <!-- Meta image -->
+        <!--<meta property="og:image" content="https://umivale.es/dam/web-corporativa/umivale-logo-rrss.jpg" />-->
+    <!-- Meta twitter image -->
+        <!--<meta name="twitter:image" content="https://umivale.es/dam/web-corporativa/umivale-logo-rrss.jpg" /> -->
+    
+        <!-- Meta description -->
+        <meta name="description" content="Umivale Activa es la mutua colaboradora con la Seguridad Social nº3. Gestionamos la salud laboral de nuestras empresas mutualistas."/>
+<!-- Metadatos Social Media: END -->
+
+<meta name="msvalidate.01" content="D3B90087735C0617ABAA1BF2254DC5FE" />
+
+<script defer type="text/javascript" id="accesitSctp" src="https://cdn.accesit.eu/umivaleactiva.js"></script>
+
+</head>
+<body class="">
+
+<h1 class="hidden">Umivale Activa, Mutua Colaboradora con la Seguridad Social 3</h1>
+
+<script>
+   var noContentMessageSent=false;
+   console.log("noContentMessageSent: "+noContentMessageSent);
+   
+    //Mensajeria resize   
+   function sendResizeMessage() {
+       var doc = document.body;
+       var documentHeight= doc.scrollHeight;
+       console.log('documentHeight: ' + documentHeight );
+       console.log('callback: ' + '' );
+       parent.postMessage("FRAME:resize::" + documentHeight, "*"); 
+   }
+
+   window.onload = function() {
+    console.log("noContentMessageSent: "+noContentMessageSent);
+    if (noContentMessageSent===false){
+        sendResizeMessage();
+    }
+    
+     document.cookie = "_gat_UA-4140624-1=1;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=."+window.location.hostname;
+     document.cookie = "_gat_UA-234902847-1=1;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=."+window.location.hostname;
+     document.cookie = "_gat_gtag_UA_234902847_1=1;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=."+window.location.hostname;
+     document.cookie = "_gat=1;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/;domain=."+window.location.hostname;
+   }
+   
+    //Mensajeria no hay contenido
+    function gwt_sendNoContentMessage(){
+        console.log("gwt_sendParentMessage: " + "");
+        parent.postMessage("FRAME:no-content:", "*");
+        noContentMessageSent=true;
+        console.log("noContentMessageSent: "+noContentMessageSent);
+    }
+    
+    //Mensajeria abrir URL
+    function gwt_openURL(url){
+        console.log("gwt_openURL: " + url);
+        parent.postMessage("OPEN_URL:" + url, "*");
+    }          
+</script>
+
+
+<a href="#maincontent" class="access-hidden">Ir Al contenido de la página</a>
+
+
+
+
+
+<style>
+.web-topbar-section-mt-6{
+	margin-top: 6px !important;
+}
+.web-topbar-section-ml-10{
+	margin-left: 10px !important;
+}
+.web-topbar-section-p-0{
+	padding: 0 !important;
+}
+.web-topbar-section-ml-10{
+	margin-left: 10px !important;
+}
+.web-topbar-section-mr-5{
+	margin-right: 5px !important;
+}
+.web-topbar-section-pr-15{
+	padding-right: 15px !important;
+}
+.web-topbar-section-mlr-10{
+	margin-left: 10px !important; 
+	margin-right: 10px !important;
+}
+.web-topbar-section-mt-4-menos{
+	margin-top: -4px;
+}
+.web-topbar-section-mt-8{
+	margin-top: 8px !important;
+}
+.web-topbar-section-z-index-5{
+	z-index: 5;
+}
+.web-topbar-section-display-inline-flex{
+	display: inline-flex !important;
+}
+.web-topbar-section-font-size-30{
+	font-size: 30px !important;
+}
+.web-topbar-section-width-100{
+	width:100% !important;
+}
+</style>
+
+<nav class="navbar navbar-default navbar-fixed-top umivale-navbar-shadow hidden-xs">
+  <div class="container-fluid umivale-header-container">
+    <div class="row">
+      <div class="col-lg-4 col-md-5 col-sm-4 col-xs-4 pull-left">
+        <a href="" title="Pagina inicio"><div class="logo-container"><div class="logo"><img src="/dam/jcr:91e10a52-9634-4052-beea-4e66f980f6fd/logo%20cabecera.JPG" alt="Umivale Activa, mutua colaboradora con la Seguridad Social número 3" title="Umivale Activa" height="70"></div></div></a>
+      </div>
+      
+	  <div class="col-lg-8 col-md-7 col-sm-8 col-xs-8 text-right hidden-xs">
+	    <ul class="nav navbar-nav navbar-right web-topbar-section-mt-6">	      
+      		
+      		<li class="nav-item web-topbar-section-ml-10">
+                <a href="/preguntas-frecuentes/tambien-puede-interesarte/atencion-al-cliente" class="mega-menu-link">
+                    <span class="umivale-text-blue fa fa-phone" style="font-size: 1.4em !important;"></span>
+                    <span style="text-decoration: underline;">Contacto</span>
+                </a> 
+            </li>
+            
+      		<li class="nav-item web-topbar-section-ml-10">
+                <a href="/formularios" class="mega-menu-link">
+                    <span class="umivale-text-blue fa fa-file-text" style="font-size: 1.3em !important;"></span>
+                    <span style="text-decoration: underline;">Formularios</span>
+                </a> 
+            </li>            
+            
+  		<li class="nav-item web-topbar-section-ml-10" style="margin-top: -6px;">
+            <select name="language" id="language" title="language" onchange="window.location.href=this.value;">   
+                      
+                      
+                      
+                      
+                      
+                      
+<option value="#" selected>Castellano</option> <!--<a aria-label="language.changelink.label Castellano" lang="es" href='#'><span class="activo">Castellano</span></a> -->                      
+                      
+                      
+                      
+                      
+                      
+                      
+<option value="/ca/">Català</option> <!-- <a aria-label="language.changelink.label Català" href="/ca/">Català</a>-->                      
+                      
+                      
+                      
+                      
+                      
+                      
+<option value="/va/">Valencià</option> <!-- <a aria-label="language.changelink.label Valencià" href="/va/">Valencià</a>-->                      
+            </select> 
+        </li>        
+            
+	      	<!--<li class="hidden-sm hidden-xs web-topbar-section-ml-10">
+		      	<a href="/preguntas-frecuentes/tambien-puede-interesarte/atencion-al-cliente" class="web-topbar-section-p-0">
+		      		<img src="/dam/jcr:1099b680-0362-4e99-856b-9ebeb256c7aa/Umivale%20LINEA%20900%20--%20RGB.svg" alt="Contacta con Umivale" title="Atención al Cliente" width="170">
+		      	</a>
+	      	</li>-->
+		      <li class="nav-item web-topbar-section-ml-10" style="margin-top: 2px;">
+		        <div class="btn btn-round umivale-btn-red umivale-btn-small" title="Ir a Red de Centros" onClick="window.location='/red-de-centros';"><span class="material-icons web-topbar-section-mr-5" aria-hidden="true">room</span>Centros</div>
+		      </li>
+			  <li class="nav-item dropdown" style="margin-top: 2px;">
+	           <!--<a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="web-topbar-section-pr-15"><span class="material-icons umivale-text-blue umivale-icon-menu-size" aria-hidden="true">apps</span></a>-->
+	           <div class="btn btn-round umivale-btn-blue umivale-btn-small" title="Apps Umivale" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/dam/umivale-activa/online/simbolo-umivale-online.svg" style="height: 15px; padding-right: 5px;" alt="umivale activa online"> Online</div>
+	            <div class="dropdown-menu row umivale-dropdown-menu-apps">
+	            		<div class="dropdown-apps-selector">
+    	            		<a class="dropdown-item" href="/online/empresas" style="padding: 10px 0;"><img src="/dam/jcr:61855aa9-915b-4983-93e4-0c4e82011d53/logo-online-empresas.png" alt="Empresas y despachos"></a>
+    	            		<p style="font-weight: 500; margin-left: 10px;">Empresas y despachos</p>
+	            		</div>
+	            		<div class="dropdown-apps-selector">
+    	            		<a class="dropdown-item" href="/online/personas" style="padding: 10px 0;"><img src="/dam/jcr:97aab3a0-0d94-49f9-b1f7-d368663c66fb/logo-online-personas.png" alt="Personas"></a>
+    	            		<p style="font-weight: 500; margin-left: 10px;">Personas</p>
+	            		</div>
+	            </div>
+	          </li>
+	          <li class="search-toggle">
+		        <div class="search-button-open" onclick="uwtb_show()" aria-label="Buscar"> <span class="material-icons" aria-hidden="true">search</span> </div>
+	          </li>
+	    </ul>
+	  </div>
+	</div>
+  </div>
+  <!-- Navegación Principal Header -->
+</nav>
+
+
+<nav class="navbar navbar-default navbar-fixed-top search-bar web-topbar-section-z-index-5" id="search-bar">
+  <div class="container umivale-header-container-custom">
+    <div class="container-fluid">
+      <form action="/search" method="GET" class="form-inlinet">
+      <div class="search-bar-icon web-topbar-section-display-inline-flex"> <span class="material-icons web-topbar-section-font-size-30" aria-hidden="true">search</span> </div>
+      <div class="search-form-container">
+        <div class="md-form web-topbar-section-width-100">
+          <input name="search" class="form-control" type="search" placeholder="Buscar" aria-label="Buscar" title="Localiza las páginas y contenidos disponibles">
+        </div>
+      </div>
+      <div class="search-bar-icon web-topbar-section-display-inline-flex">
+        <div class="search-button-close" onclick="uwtb_hide()" aria-label="Cerrar"> <span class="material-icons" aria-hidden="true">close</span> </div>
+      </div>
+      </form>
+    </div>
+  </div>
+</nav>
+
+
+<script>
+	function uwtb_show() {
+		// document.getElementById("nav-top").setAttribute('style', 'display: none !important;')
+		document.getElementById("search-bar").setAttribute('style', 'display: block !important;')
+		document.getElementById("search-bar").setAttribute('style', 'z-index: 1030 !important')
+	}
+	function uwtb_hide(){
+		document.getElementById("search-bar").setAttribute('style', 'display: none !important;')
+		document.getElementById("nav-top").setAttribute('style', 'display: block !important;')
+	}
+</script> 
+
+<style>
+/** Profiles Header **/
+.umivale-profile-header-container {
+    position: relative; 
+	top: 65px;
+	right: 0; 
+	left: 0; 
+	/*height: 818px; */
+	width: 100%; 
+	background-color: #FFF;
+}
+.umivale-profile-header-column {
+	margin: 0 !important; 
+	padding: 0 !important;
+	/*border-bottom: 22px solid #fff;*/
+}
+.umivale-profile-header-column a {
+	text-decoration: none !important;
+}
+.umivale-profile-header-text-container {
+	margin: 0 auto; 
+	text-align: center; 
+	padding: 20px; 
+	color: #FFF;
+	position: relative;
+	z-index: 9;
+}
+.umivale-profile-header-text-container h2 {
+    font-size: 2.7em !important;
+}
+.umivale-profile-header-text-container span {
+	max-width: 100% !important; 
+	text-transform: none !important; 
+	font-size: 18px !important; 
+	line-height: 20px !important;
+	font-weight: 400 !important;
+    -webkit-line-clamp: 3;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    margin-top: 0 !important;
+}
+	
+.umivale-empresa-mask, .umivale-despacho-mask, .umivale-trabajadores-mask, .umivale-autonomo-mask {
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+	height: 208px;
+	width: 100%;
+	/*display: table;*/
+}
+.umivale-empresa-mask:hover, .umivale-empresa-mask.active {
+	background: linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	background: -moz-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	background: -webkit-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+	height: 208px;
+}
+.umivale-despacho-mask:hover, .umivale-despacho-mask.active  {
+	background: linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	background: -moz-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	background: -webkit-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+	height: 208px;
+}
+.umivale-trabajadores-mask:hover, .umivale-trabajadores-mask.active {
+	background: linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	background: -moz-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	background: -webkit-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+	height: 208px;
+}	 
+.umivale-autonomo-mask:hover, .umivale-autonomo-mask.active {
+	background: linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	background: -moz-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	background: -webkit-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+	height: 208px;
+}
+
+.web-full-profiles-section-profile-header-column{
+	border-right: 4px solid #fff !important; 
+	/*border-bottom: 4px solid #fff !important;*/
+}
+.web-full-profiles-section-mask-1{
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg), 50%;
+}
+.web-full-profiles-section-mask-2{
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg), 50%;
+}
+.web-full-profiles-section-mask-3{
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg), 50%;
+}
+.web-full-profiles-section-mask-4{
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg), 50%;
+}
+
+
+@media (max-width: 768px) {
+   .brand-perfiles {
+        color: #FFFFFF !important;
+        text-align: center !important;
+        margin-top: 0px !important;
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+    .umivale-profile-header-container {
+        height: auto !important;
+    }
+    .umivale-profile-header-text-container h2 {
+        font-size: 2em !important;
+    }
+    .umivale-profile-header-text-container span {
+        max-width: 100% !important;
+        text-transform: none !important;
+        font-size: 17px !important;
+        line-height: 20px !important;
+        font-weight: 400 !important;
+        -webkit-line-clamp: 2;
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        margin-top: 0 !important;
+    }
+    .umivale-empresa-mask, .umivale-despacho-mask, .umivale-trabajadores-mask, .umivale-autonomo-mask {
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 100px;
+	   width: 100%;
+	   /*display: table;*/
+    }
+    .umivale-empresa-mask:hover, .umivale-empresa-mask.active {
+	   background: linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	   background: -moz-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	   background: -webkit-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 100px;
+    }
+    .umivale-despacho-mask:hover, .umivale-despacho-mask.active  {
+	   background: linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	   background: -moz-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	   background: -webkit-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 100px;
+    }
+    .umivale-trabajadores-mask:hover, .umivale-trabajadores-mask.active {
+	   background: linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	   background: -moz-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	   background: -webkit-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 100px;
+    }	 
+    .umivale-autonomo-mask:hover, .umivale-autonomo-mask.active {
+	   background: linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	   background: -moz-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	   background: -webkit-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 100px;
+    }
+}
+@media (max-width: 991px) {
+   .umivale-profile-header-column {
+      border-right: none !important;
+      border-left: none !important;
+   }
+   .umivale-profile-header-text-container h2 {
+      font-size: 2.2em !important;
+   }
+   .umivale-empresa-mask, .umivale-despacho-mask, .umivale-trabajadores-mask, .umivale-autonomo-mask {
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 150px;
+	   width: 100%;
+	   /*display: table;*/
+    }
+    .umivale-empresa-mask:hover, .umivale-empresa-mask.active {
+	   background: linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	   background: -moz-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	   background: -webkit-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 150px;
+    }
+    .umivale-despacho-mask:hover, .umivale-despacho-mask.active  {
+	   background: linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	   background: -moz-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	   background: -webkit-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 150px;
+    }
+    .umivale-trabajadores-mask:hover, .umivale-trabajadores-mask.active {
+	   background: linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	   background: -moz-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	   background: -webkit-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 150px;
+    }	 
+    .umivale-autonomo-mask:hover, .umivale-autonomo-mask.active {
+	   background: linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	   background: -moz-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	   background: -webkit-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	   background-position: top center !important; 
+	   background-repeat: no-repeat !important; 
+	   background-size: cover !important; 
+	   height: 150px;
+    }
+    .brand-perfiles {
+       color: #FFFFFF !important;
+       text-align: center !important;
+       margin-top: 0px !important;
+       margin-right: 40px;
+       margin-left: 40px;
+    }
+}
+</style>
+ 
+  <div class="container-fluid umivale-profile-header-container">
+  	<div class="row">
+  		<div class="col-lg-6 col-md-6 umivale-profile-header-column web-full-profiles-section-profile-header-column">
+  		  <a href="/empresa" title="Empresa">
+  		    <div class="umivale-empresa-mask web-full-profiles-section-mask-1">
+  		      <div class="umivale-profile-header-text-container">
+  			    <div class="brand-perfiles">
+		          <h2 class="umivale-profiles-title umivale-text">Empresa</h2>
+		        </div>
+  			  </div>
+  			</div>
+  		  </a>
+  		</div>
+  		<div class="col-lg-6 col-md-6 umivale-profile-header-column web-full-profiles-section-profile-header-column" style="border-right: 0px solid #fff !important;">
+  		  <a href="/trabajador" title="Paciente">
+  		    <div class="umivale-trabajadores-mask web-full-profiles-section-mask-2">
+  			  <div class="umivale-profile-header-text-container">
+  			    <div class="brand-perfiles">
+		          <h2 class="umivale-profiles-title umivale-text">Paciente</h2>
+		        </div>
+  			  </div>
+  			</div>
+  		  </a>
+  		</div>
+  		<div class="col-lg-6 col-md-6 umivale-profile-header-column web-full-profiles-section-profile-header-column">
+  		  <a href="/autonomo" title="Autonomo">
+  		    <div class="umivale-autonomo-mask web-full-profiles-section-mask-3">
+  			  <div class="umivale-profile-header-text-container">
+  			    <div class="brand-perfiles">
+		          <h2 class="umivale-profiles-title umivale-text">Autónoma/o</h2>
+		        </div>
+  			  </div>
+  			</div>
+  		   </a>
+  		</div>
+  		<div class="col-lg-6 col-md-6 umivale-profile-header-column web-full-profiles-section-profile-header-column" style="border-right: 0px solid #fff !important;">
+  		  <a href="/despacho" title="Despacho">
+  		    <div class="umivale-despacho-mask web-full-profiles-section-mask-4">
+  			  <div class="umivale-profile-header-text-container">
+  			    <div class="brand-perfiles">
+		          <h2 class="umivale-profiles-title umivale-text">Despacho</h2>
+		        </div>
+  			  </div>
+  			</div>
+  		  </a>
+  		</div>
+  	</div>
+  </div><div class="umivale-height-phone" style="height:65px"></div>
+
+
+
+
+
+
+
+<style>
+.umivale-empresa-mask, .umivale-despacho-mask, .umivale-trabajadores-mask, .umivale-autonomo-mask {
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+	width: 100%;
+	display: table;
+	margin: 2px 0;
+}
+.umivale-empresa-mask:hover, .umivale-empresa-mask.active {
+	background: linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	background: -moz-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	background: -webkit-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg) !important;
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+}
+.umivale-despacho-mask:hover, .umivale-despacho-mask.active  {
+	background: linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	background: -moz-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	background: -webkit-linear-gradient(0deg, rgba(18, 77, 145, 0.88), rgba(18, 77, 145, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg) !important;
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+}
+.umivale-trabajadores-mask:hover, .umivale-trabajadores-mask.active {
+	background: linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	background: -moz-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	background: -webkit-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg) !important;
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; 
+}	 
+.umivale-autonomo-mask:hover, .umivale-autonomo-mask.active {
+	background: linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	background: -moz-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	background: -webkit-linear-gradient(0deg, rgba(255, 152, 0, 0.88), rgba(255, 152, 0, 0.45)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg) !important;
+	background-position: top center !important; 
+	background-repeat: no-repeat !important; 
+	background-size: cover !important; ;
+}
+.web-main-menu-phone-section-container{
+	padding-left: 0 !important; 
+	padding-right: 0 !important;
+}
+.web-main-menu-phone-section-p-0{
+	padding: 0 !important;
+}
+.web-main-menu-phone-section-display-inline-table{
+	display: inline-table !important;
+}
+.web-main-menu-phone-section-{}
+
+@media (max-width: 768px) {
+    .brand span {
+        max-width: 100% !important;
+        text-transform: none !important;
+        font-size: 17px !important;
+        line-height: 20px !important;
+        font-weight: 400 !important;
+        -webkit-line-clamp: 2;
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        margin-top: 0 !important;
+    }
+}
+</style>
+
+<!-- Mega Menu: BEGIN -->
+  <div class="container-fluid web-main-menu-phone-section-container">
+    <nav class="navbar navbar-default custom-mega-menu hidden-lg hidden-md hidden-sm">
+
+      <div class="navbar-header">
+        <a class="navbar-brand navbar-brand-phone hidden-lg hidden-md hidden-sm" href="">
+          <img src="/dam/jcr:91e10a52-9634-4052-beea-4e66f980f6fd/logo%20cabecera.JPG" alt="umivale" title="umivale">
+        </a>
+	        <ul class="nav-right-phone-list list-unstyled list-inline right">
+	          <li>
+	            <div class="btn-round umivale-btn-red umivale-centers-btn-phone hidden-lg hidden-md hidden-sm" onClick="window.location='/red-de-centros';"><span class="material-icons">room</span></div>
+	          </li>
+	          <li>
+	            <div class="search-phone-button-open hidden-lg hidden-md hidden-sm" onclick="show()"><span class="material-icons">search</span></div>
+	          </li>
+	          <li>
+	            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse">
+	              <span class="sr-only">Toggle navigation</span>
+	              <span class="icon-bar"></span>
+	              <span class="icon-bar"></span>
+	              <span class="icon-bar"></span>
+		          </button>
+	          </li>
+	         </ul>
+      </div>
+      
+      <div class="collapse navbar-collapse js-navbar-collapse mega-menu-div" >
+        <ul class="nav navbar-nav" align="center">
+
+ <div class="container-fluid hidden-lg hidden-md hidden-sm">
+ 	<div class="row phone-menu-row-flex">
+
+ 	  <!--<div class="col-xs-12 web-main-menu-phone-section-p-0">-->
+	 	  <div class="col-xs-6 text-center web-main-menu-phone-section-p-0">
+ 	        <a href="/preguntas-frecuentes/tambien-puede-interesarte/atencion-al-cliente" class="mega-menu-link">
+                <span class="umivale-text-blue fa fa-phone" style="font-size: 1.4em !important;"></span>
+                <span style="text-decoration: underline;">Contacto</span>
+            </a> 
+	 	  </div>
+	 	  <div class="col-xs-6 text-center web-main-menu-phone-section-p-0">
+            <a href="/formularios" class="mega-menu-link">
+                <span class="umivale-text-blue fa fa-file-text" style="font-size: 1.3em !important;"></span>
+                <span style="text-decoration: underline;">Formularios</span>
+            </a>
+	 	  </div>
+	 	  
+  		<!--
+  		  <div class="col-xs-6 text-center web-main-menu-phone-section-p-0">
+              <select name="language" id="language" onchange="window.location.href=this.value;">
+                    <option value="https://umivaleactiva.es/" selected>Castellano</option>                        
+                    <option value="https://umivaleactiva.es/ca/">Català</option> 
+              </select> 
+          </div>-->
+          
+      		<div class="col-xs-6 text-center web-main-menu-phone-section-p-0">
+                <select name="language" id="language" title="language" onchange="window.location.href=this.value;">            
+                          
+                          
+                          
+                          
+                          
+                          
+<option value="#" selected>Castellano</option> <!--<a aria-label="language.changelink.label Castellano" lang="es" href='#'><span class="activo">Castellano</span></a> -->                          
+                          
+                          
+                          
+                          
+                          
+                          
+<option value="/ca/">Català</option> <!-- <a aria-label="language.changelink.label Català" href="/ca/">Català</a>-->                          
+                          
+                          
+                          
+                          
+                          
+                          
+<option value="/va/">Valencià</option> <!-- <a aria-label="language.changelink.label Valencià" href="/va/">Valencià</a>-->                          
+                </select> 
+            </div>          
+	 	  
+	 	  <div class="col-xs-6 text-center web-main-menu-phone-section-p-0">
+                <div class="btn btn-round umivale-btn-red mobile-menu-btn" onClick="window.location='/red-de-centros';"><span class="material-icons">room</span>Centros</div>
+	 	  </div>	 	  
+	  	  <!--<div class="col-xs-6 text-center web-main-menu-phone-section-p-0">
+	 	  	<a href="tel:900.365.012" title="Telefono Umivale"><img src="/dam/jcr:1099b680-0362-4e99-856b-9ebeb256c7aa/Umivale%20LINEA%20900%20--%20RGB.svg" class="telefono-umivale-phone" alt="Ponte en contacto con Umivale" title="Llamar a Umivale"></a>
+	 	  </div>-->	
+ 	  <!--</div>  -->
+
+	  <!-- Empresa -->
+ 	  <div class="col-xs-6 web-main-menu-phone-section-p-0">
+ 	    <li class="hidden-lg hidden-md hidden-sm">
+          <a href="/empresa" class="link-profile-phone">
+            <div class="umivale-empresa-mask" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Empresa-web.jpg/jcr:content/Empresa-web.jpg);height: 90px !important;">
+              <div class="umivale-profile-header-text-container">
+	            <div class="brand">
+                  <span>Empresa</span>
+	            </div>
+	          </div>
+	        </div>
+          </a>
+        </li>
+ 	  </div>
+ 	  <!-- Trabajador -->	
+ 	  <div class="col-xs-6 web-main-menu-phone-section-p-0">
+ 	    <li class="hidden-lg hidden-md hidden-sm">
+          <a href="/trabajador" class="link-profile-phone">
+	        <div class="umivale-trabajadores-mask" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/paciente-web.jpg/jcr:content/paciente-web.jpg); height: 90px !important;">
+	          <div class="umivale-profile-header-text-container">
+	            <div class="brand">
+                  <span>Paciente</span>
+	            </div>
+	          </div>
+	        </div>
+          </a>
+        </li>
+ 	  </div>
+ 	  <!-- Autonomo -->	
+ 	  <div class="col-xs-6 web-main-menu-phone-section-p-0">
+ 	    <li class="hidden-lg hidden-md hidden-sm">
+          <a href="/autonomo" class="link-profile-phone">
+	        <div class="umivale-autonomo-mask" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Aut-nomo-web.jpg/jcr:content/Aut%C3%B3nomo-web.jpg);height: 90px !important;">
+	          <div class="umivale-profile-header-text-container">
+	            <div class="brand">
+                  <span>Autónoma/o</span>
+	            </div>
+	          </div>
+	        </div>
+          </a>
+        </li>
+ 	  </div>
+ 	  <!-- Despacho -->	
+ 	  <div class="col-xs-6 web-main-menu-phone-section-p-0">
+ 	  	<li class="hidden-lg hidden-md hidden-sm">
+  	      <a href="/despacho" class="link-profile-phone">
+	        <div class="umivale-despacho-mask" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/.imaging/mte/umivale-bootstrap-module/homeBlog/dam/umivale-activa/paginas-web-corporativa/portada/Despacho-web.jpg/jcr:content/Despacho-web.jpg);height: 90px !important;">
+  			          <div class="umivale-profile-header-text-container">
+  			            <div class="brand">
+		                 <span>Despacho</span>
+			            </div>
+  			          </div>
+  			        </div>
+  		          </a>
+                </li>
+         	  </div>
+         	 </div>
+          </div>
+          <!-- dropdown -->
+          <div class="divider"></div>
+          <ul class="list-inline list-unstyled menu-list-app hidden-lg hidden-md hidden-sm">
+            		<li class="dropdown-apps-selector">
+            		    <a class="dropdown-item" href="/online/empresas" style="padding: 10px 0;">
+            		        <img src="/dam/jcr:61855aa9-915b-4983-93e4-0c4e82011d53/logo-online-empresas.png" alt="apps-umivale">
+            		    </a>
+            		    <p style="font-weight: 500; margin-left: 10px;">Empresas y despachos</p>  
+            		</li>
+            		<li class="dropdown-apps-selector">
+            		    <a class="dropdown-item" href="/online/personas" style="padding: 10px 0;">
+            		        <img src="/dam/jcr:97aab3a0-0d94-49f9-b1f7-d368663c66fb/logo-online-personas.png" alt="apps-umivale">
+            		    </a>
+            		    <p style="font-weight: 500; margin-left: 10px;">Personas</p>  
+            		</li>
+          </ul>
+          <div class="divider"></div>          
+          <!-- Menu principal movil: BEGIN -->
+          <li class="dropdown mega-dropdown"> 
+            <a href="" class="dropdown-toggle hidden-lg hidden-md hidden-sm">Inicio</a>
+		  </li>
+		          <li  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' class="dropdown mega-dropdown phoneMenuItemNavigation"> 
+		            <a href="/conocenos" class="dropdown-toggle">Conócenos</a>
+		            	<a class="dropdown-list-link hidden-lg hidden-md hidden-sm" href="" data-toggle="dropdown"><span class="material-icons">keyboard_arrow_right</span></a>
+		            
+		            <ul class="dropdown-menu mega-dropdown-menu row">
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/conocenos/quienes-somos" >Quiénes somos</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/conocenos/licitaciones" >Licitaciones</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/conocenos/trabaja-con-nosotros" >Trabaja en Umivale Activa</a></li>
+					                </ul>
+					              </li>
+		            </ul>
+		          </li>
+		          <li  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' class="dropdown mega-dropdown phoneMenuItemNavigation"> 
+		            <a href="/portal-de-transparencia" class="dropdown-toggle">Portal de transparencia</a>
+		            	<a class="dropdown-list-link hidden-lg hidden-md hidden-sm" href="" data-toggle="dropdown"><span class="material-icons">keyboard_arrow_right</span></a>
+		            
+		            <ul class="dropdown-menu mega-dropdown-menu row">
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/portal-de-transparencia/canal-cumplimiento" >Canal de cumplimiento</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/portal-de-transparencia/junta-directiva" >Junta Directiva Umivale Activa</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/portal-de-transparencia/comision-de-prestaciones-especiales" >Comisión de Prestaciones Especiales</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/portal-de-transparencia/comision-de-control-y-seguimiento" >Comisión de control y seguimiento</a></li>
+					                </ul>
+					              </li>
+		            </ul>
+		          </li>
+		          <li  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' class="dropdown mega-dropdown phoneMenuItemNavigation"> 
+		            <a href="/por-que-elegirnos" class="dropdown-toggle">¿Por qué Umivale Activa?</a>
+		            	<a class="dropdown-list-link hidden-lg hidden-md hidden-sm" href="" data-toggle="dropdown"><span class="material-icons">keyboard_arrow_right</span></a>
+		            
+		            <ul class="dropdown-menu mega-dropdown-menu row">
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/solicitud-asesoramiento" >Solicitud asesoramiento Umivale Activa</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/competitividad-y-salud" >Competitividad y salud</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/asistencia-sanitaria-empresa" >Asistencia sanitaria para la empresa</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='false' data-profile-trabajador='false' data-profile-despacho='false' data-profile-autonomo='true' data-profile-ninguno='false'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/asistencia-sanitaria-autonomo" >Asistencia sanitaria autónomo</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='false' data-profile-trabajador='true' data-profile-despacho='false' data-profile-autonomo='false' data-profile-ninguno='false'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/asistencia-sanitaria-paciente" >Asistencia sanitaria Paciente</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='false' data-profile-trabajador='true' data-profile-despacho='false' data-profile-autonomo='false' data-profile-ninguno='false'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/prestaciones-economicas-trabajador" >Prestaciones económicas trabajador </a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/prestaciones-economicas" >Prestaciones económicas ¿qué debe hacer la empresa?</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='false' data-profile-trabajador='false' data-profile-despacho='false' data-profile-autonomo='true' data-profile-ninguno='false'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/prestaciones-economicas-autonomo" >Prestaciones económicas para personas trabajadoras autónomas</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/asistencia-social" >Asistencia Social </a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='false' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/empleados-empleadas-del-hogar" >Empleadas y empleados del hogar</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/por-que-elegirnos/sistema-especial-agrario" >Sistema Especial Agrario</a></li>
+					                </ul>
+					              </li>
+		            </ul>
+		          </li>
+		          <li  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true' class="dropdown mega-dropdown phoneMenuItemNavigation"> 
+		            <a href="/salud-y-absentismo-laboral" class="dropdown-toggle">Salud y absentismo laboral</a>
+		            	<a class="dropdown-list-link hidden-lg hidden-md hidden-sm" href="" data-toggle="dropdown"><span class="material-icons">keyboard_arrow_right</span></a>
+		            
+		            <ul class="dropdown-menu mega-dropdown-menu row">
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/salud-y-absentismo-laboral/que-es-el-absentismo-laboral" >¿Qué es el absentismo laboral?</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/salud-y-absentismo-laboral/estudio-sobre-it-y-siniestralidad" >Estudio cuantitativo sobre la IT y la siniestralidad</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/salud-y-absentismo-laboral/estudio-evolucion-incapacidad-temporal" >Estudio de la evolución de la incapacidad temporal</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/salud-y-absentismo-laboral/catalogo-de-buenas-practicas" >Catálogo de buenas prácticas</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/salud-y-absentismo-laboral/convenio-universidad-valencia-umivale-activa" >Convenio Universidad Valencia-Umivale Activa</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='false'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/salud-y-absentismo-laboral/calcula-valor-economico-absentismo-plantilla" >Calcula el valor económico del absentismo en tu plantilla</a></li>
+					                </ul>
+					              </li>
+		            </ul>
+		          </li>
+		          <li  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' class="dropdown mega-dropdown phoneMenuItemNavigation"> 
+		            <a href="/prevencion-y-salud" class="dropdown-toggle">Prevención </a>
+		            	<a class="dropdown-list-link hidden-lg hidden-md hidden-sm" href="" data-toggle="dropdown"><span class="material-icons">keyboard_arrow_right</span></a>
+		            
+		            <ul class="dropdown-menu mega-dropdown-menu row">
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/prevencion-y-salud/prevencion" >Prevención de Riesgos Laborales</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/prevencion-y-salud/promocion-de-la-salud" >Promoción de la salud</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/prevencion-y-salud/preguntas-frecuentes" >Preguntas frecuentes PRL</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/prevencion-y-salud/otros-enlaces-de-interes" >Otros enlaces de interés</a></li>
+					                </ul>
+					              </li>
+		            </ul>
+		          </li>
+		          <li  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' class="dropdown mega-dropdown phoneMenuItemNavigation"> 
+		            <a href="/actualidad" class="dropdown-toggle">Actualidad </a>
+		            	<a class="dropdown-list-link hidden-lg hidden-md hidden-sm" href="" data-toggle="dropdown"><span class="material-icons">keyboard_arrow_right</span></a>
+		            
+		            <ul class="dropdown-menu mega-dropdown-menu row">
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/actualidad/novedades-normativas" >Novedades normativas</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/actualidad/blog" >El blog de Umivale Activa</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/actualidad/suscripcion-newsletter" >Newsletter</a></li>
+					                </ul>
+					              </li>
+					              <li class="phoneMenuItemNavigation"  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+					                <ul class="dropdown-menu-mega">
+					                  <li class="dropdown-header"><a class="mega-menu-link" href="/actualidad/eventos-y-jornadas" >Eventos y jornadas</a></li>
+					                </ul>
+					              </li>
+		            </ul>
+		          </li>
+		          <li  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' class="dropdown mega-dropdown phoneMenuItemNavigation"> 
+		            <a href="/formularios" class="dropdown-toggle">Formularios  </a>
+		            	<a class="dropdown-list-link hidden-lg hidden-md hidden-sm" href="" data-toggle="dropdown"><span class="material-icons">keyboard_arrow_right</span></a>
+		            
+		            <ul class="dropdown-menu mega-dropdown-menu row">
+		            </ul>
+		          </li>
+		          <li  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' class="dropdown mega-dropdown phoneMenuItemNavigation"> 
+		            <a href="/privacidad" class="dropdown-toggle">Privacidad</a>
+		            
+		            
+		            <ul class="dropdown-menu mega-dropdown-menu row">
+				        	<li>
+				        	
+				        	</li>    
+		            </ul>
+		          </li>
+          <!-- Menu principal movil: END -->
+        </ul>
+      </div>
+      <!-- /.nav-collapse --> 
+    </nav>
+  </div>
+<!-- Mega Menu: END -->
+<script>
+function show() {
+	// document.getElementById("nav-top").setAttribute('style', 'display: none !important;')
+	document.getElementById("search-bar").setAttribute('style', 'display: block !important;')
+	document.getElementById("search-bar").setAttribute('style', 'z-index: 1030 !important')
+}
+function hide(){
+	document.getElementById("search-bar").setAttribute('style', 'display: none !important;')
+	document.getElementById("nav-top").setAttribute('style', 'display: block !important;')
+}
+
+var listItems = $("ul li.phoneMenuItemNavigation"); //Se utiliza la clase parra recoger los LI
+var currentProfile = umpu_getProfile();
+for(var i = 0; i < listItems.length; i++){
+	if(listItems[i].getAttribute("data-profile-"+currentProfile)==="false"){		
+		//listItems[i].style.display = "none";
+		listItems[i].setAttribute( 'style', "display: none !important");
+	}	
+}
+</script>
+ 
+<div class="container-flex">
+    <nav class="navbar navbar-default custom-mega-menu hidden-xs">
+      <div class="navbar-header">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".js-navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      </div>
+      <div class="collapse navbar-collapse js-navbar-collapse mega-menu-div">
+        <ul class="nav navbar-nav" id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0">
+			           <li onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-1');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-1');" class="dropdown mega-dropdown "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' aria-label="menú secundario">
+			            <a id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-item-1" href="/conocenos">Conócenos</a>
+				            <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" title="Conócenos" aria-label="Conócenos"></span>
+	                            <ul onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-1');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-1');" id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-1" class="dropdown-menu mega-dropdown-menu row">
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/conocenos/quienes-somos" class="mega-menu-link">Quiénes somos</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/conocenos/licitaciones" class="mega-menu-link">Licitaciones</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/conocenos/trabaja-con-nosotros" class="mega-menu-link">Trabaja en Umivale Activa</a>
+	    						            	
+	    						            </li>
+	    
+	    				        </ul>
+			          </li>
+			           <li onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-2');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-2');" class="dropdown mega-dropdown "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' aria-label="menú secundario">
+			            <a id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-item-2" href="/portal-de-transparencia">Portal de transparencia</a>
+				            <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" title="Portal de transparencia" aria-label="Portal de transparencia"></span>
+	                            <ul onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-2');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-2');" id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-2" class="dropdown-menu mega-dropdown-menu row">
+	    
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/portal-de-transparencia/canal-cumplimiento" class="mega-menu-link">Canal de cumplimiento</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/portal-de-transparencia/junta-directiva" class="mega-menu-link">Junta Directiva Umivale Activa</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/portal-de-transparencia/comision-de-prestaciones-especiales" class="mega-menu-link">Comisión de Prestaciones Especiales</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/portal-de-transparencia/comision-de-control-y-seguimiento" class="mega-menu-link">Comisión de control y seguimiento</a>
+	    						            	
+	    						            </li>
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    				        </ul>
+			          </li>
+			           <li onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-3');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-3');" class="dropdown mega-dropdown "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' aria-label="menú secundario">
+			            <a id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-item-3" href="/por-que-elegirnos">¿Por qué Umivale Activa?</a>
+				            <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" title="¿Por qué Umivale Activa?" aria-label="¿Por qué Umivale Activa?"></span>
+	                            <ul onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-3');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-3');" id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-3" class="dropdown-menu mega-dropdown-menu row">
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/por-que-elegirnos/solicitud-asesoramiento" class="mega-menu-link">Solicitud asesoramiento Umivale Activa</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+	    						            	    <a href="/por-que-elegirnos/competitividad-y-salud" class="mega-menu-link">Competitividad y salud</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+	    						            	    <a href="/por-que-elegirnos/asistencia-sanitaria-empresa" class="mega-menu-link">Asistencia sanitaria para la empresa</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='false' data-profile-trabajador='false' data-profile-despacho='false' data-profile-autonomo='true' data-profile-ninguno='false'>
+	    						            	    <a href="/por-que-elegirnos/asistencia-sanitaria-autonomo" class="mega-menu-link">Asistencia sanitaria autónomo</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='false' data-profile-trabajador='true' data-profile-despacho='false' data-profile-autonomo='false' data-profile-ninguno='false'>
+	    						            	    <a href="/por-que-elegirnos/asistencia-sanitaria-paciente" class="mega-menu-link">Asistencia sanitaria Paciente</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='false' data-profile-trabajador='true' data-profile-despacho='false' data-profile-autonomo='false' data-profile-ninguno='false'>
+	    						            	    <a href="/por-que-elegirnos/prestaciones-economicas-trabajador" class="mega-menu-link">Prestaciones económicas trabajador </a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+	    						            	    <a href="/por-que-elegirnos/prestaciones-economicas" class="mega-menu-link">Prestaciones económicas ¿qué debe hacer la empresa?</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='false' data-profile-trabajador='false' data-profile-despacho='false' data-profile-autonomo='true' data-profile-ninguno='false'>
+	    						            	    <a href="/por-que-elegirnos/prestaciones-economicas-autonomo" class="mega-menu-link">Prestaciones económicas para personas trabajadoras autónomas</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/por-que-elegirnos/asistencia-social" class="mega-menu-link">Asistencia Social </a>
+	    						            	
+	    						            </li>
+	    
+	    						            <li class="dropdown-header "  data-profile-empresa='false' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+	    						            	    <a href="/por-que-elegirnos/empleados-empleadas-del-hogar" class="mega-menu-link">Empleadas y empleados del hogar</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/por-que-elegirnos/sistema-especial-agrario" class="mega-menu-link">Sistema Especial Agrario</a>
+	    						            	
+	    						            </li>
+	    				        </ul>
+			          </li>
+			           <li onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-4');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-4');" class="dropdown mega-dropdown "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true' aria-label="menú secundario">
+			            <a id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-item-4" href="/salud-y-absentismo-laboral">Salud y absentismo laboral</a>
+				            <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" title="Salud y absentismo laboral" aria-label="Salud y absentismo laboral"></span>
+	                            <ul onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-4');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-4');" id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-4" class="dropdown-menu mega-dropdown-menu row">
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/salud-y-absentismo-laboral/que-es-el-absentismo-laboral" class="mega-menu-link">¿Qué es el absentismo laboral?</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+	    						            	    <a href="/salud-y-absentismo-laboral/estudio-sobre-it-y-siniestralidad" class="mega-menu-link">Estudio cuantitativo sobre la IT y la siniestralidad</a>
+	    						            	
+	    						            </li>
+	    
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+	    						            	    <a href="/salud-y-absentismo-laboral/estudio-evolucion-incapacidad-temporal" class="mega-menu-link">Estudio de la evolución de la incapacidad temporal</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+	    						            	    <a href="/salud-y-absentismo-laboral/catalogo-de-buenas-practicas" class="mega-menu-link">Catálogo de buenas prácticas</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='false' data-profile-despacho='true' data-profile-autonomo='false' data-profile-ninguno='true'>
+	    						            	    <a href="/salud-y-absentismo-laboral/convenio-universidad-valencia-umivale-activa" class="mega-menu-link">Convenio Universidad Valencia-Umivale Activa</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='false'>
+	    						            	    <a href="/salud-y-absentismo-laboral/calcula-valor-economico-absentismo-plantilla" class="mega-menu-link">Calcula el valor económico del absentismo en tu plantilla</a>
+	    						            	
+	    						            </li>
+	    				        </ul>
+			          </li>
+			           <li onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-5');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-5');" class="dropdown mega-dropdown "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' aria-label="menú secundario">
+			            <a id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-item-5" href="/prevencion-y-salud">Prevención </a>
+				            <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" title="Prevención " aria-label="Prevención "></span>
+	                            <ul onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-5');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-5');" id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-5" class="dropdown-menu mega-dropdown-menu row">
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/prevencion-y-salud/prevencion" class="mega-menu-link">Prevención de Riesgos Laborales</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/prevencion-y-salud/promocion-de-la-salud" class="mega-menu-link">Promoción de la salud</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/prevencion-y-salud/preguntas-frecuentes" class="mega-menu-link">Preguntas frecuentes PRL</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/prevencion-y-salud/otros-enlaces-de-interes" class="mega-menu-link">Otros enlaces de interés</a>
+	    						            	
+	    						            </li>
+	    				        </ul>
+			          </li>
+			           <li onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-6');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-6');" class="dropdown mega-dropdown "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' aria-label="menú secundario">
+			            <a id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-item-6" href="/actualidad">Actualidad </a>
+				            <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" title="Actualidad " aria-label="Actualidad "></span>
+	                            <ul onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-6');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-6');" id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-6" class="dropdown-menu mega-dropdown-menu row">
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/actualidad/novedades-normativas" class="mega-menu-link">Novedades normativas</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/actualidad/blog" class="mega-menu-link">El blog de Umivale Activa</a>
+	    						            	
+	    						            </li>
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/actualidad/suscripcion-newsletter" class="mega-menu-link">Newsletter</a>
+	    						            	
+	    						            </li>
+	    
+	    
+	    
+	    
+	    
+	    						            <li class="dropdown-header "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true'>
+	    						            	    <a href="/actualidad/eventos-y-jornadas" class="mega-menu-link">Eventos y jornadas</a>
+	    						            	
+	    						            </li>
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    				        </ul>
+			          </li>
+			           <li onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-8');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-8');" class="dropdown mega-dropdown "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' aria-label="menú secundario">
+			            <a id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-item-8" href="/formularios">Formularios  </a>
+				            <span class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" title="Formularios  " aria-label="Formularios  "></span>
+	                            <ul onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-8');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-8');" id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-8" class="dropdown-menu mega-dropdown-menu row">
+	    
+	    				        </ul>
+			          </li>
+			           <li onfocusin="umpu_ensureVisibleSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-14');" onfocusout="umpu_ensureHidenSubmenu('main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-submenu-14');" class="dropdown mega-dropdown "  data-profile-empresa='true' data-profile-trabajador='true' data-profile-despacho='true' data-profile-autonomo='true' data-profile-ninguno='true' aria-label="menú secundario">
+			            <a id="main-menu-0883c087-ecf3-41be-b448-716daaa63ab0-item-14" href="/privacidad">Privacidad</a>
+	    				
+			          </li>
+        </ul>
+      </div>
+    </nav>
+</div>
+<script>
+  function umpu_ensureHidenSubmenu(submenuId)
+  {
+    var submenu = document.getElementById(submenuId); 
+    $(submenu).css("visibility","hidden");
+    $(submenu).css("opacity","0");
+  }
+  
+  function umpu_ensureVisibleSubmenu(submenuId)
+  {
+    var submenu = document.getElementById(submenuId); 
+    $(submenu).css("visibility","visible");
+    $(submenu).css("opacity","1");
+  }
+  
+  umpu_fixListItemsVisibility("main-menu-0883c087-ecf3-41be-b448-716daaa63ab0"); 
+</script>    <div class="blue-banner-web hidden-xs"></div>
+<div class="wrapper">
+ 
+<!-- Main Content: BEGIN -->
+
+    <div class="main main-raised single-menu-height main-raised-position-static-wp">
+        <!-- Breadcrumb: BEGIN -->
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-12 col-xs-12">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+			
+            	<li class="breadcrumb-item active"><a href="" title="Umivale Activa">Umivale Activa</a></li>
+
+
+        </ol>
+      </nav>
+	</div>
+  </div>
+</div>            <!-- Breadcrumb: END -->
+<div class="main-content">
+<div class="container " >
+<!--Configured containers Type: container-->
+<div class="column">
+<div class="htmlComponent mb15 mt15">
+<!-- Encabezado del Aviso
+<div class="featured-news">
+<div class="wrapper p15 mb30 mt15 blue-soft-background pull-left">
+<div class="col-xs-12 col-lg-12">
+<h2>AVISO URGENTE</h2>
+<p class="intro-text">
+Debido a la declaración de <strong>ALERTA ROJA</strong> y como medida de precaución para garantizar la seguridad de pacientes y personal, se informa que los centros:</p>
+<p>Castellón · Puerto de Sagunto · Museros · Valencia avda. Cataluña · Valencia c/ Colón · Quart de Poblet · Torrent · Catarroja · Algemesí · Almussafes · Sueca · Gandía, hoy, lunes 29 de septiembre de 2025</strong>, cerrarán a las <span class="highlight-time">18:00 horas.</p>
+<p class="footer-text">
+Lamentamos las molestias ocasionadas.
+</p>
+</div>
+</div>
+</div>
+-->
+</div> </div></div><div class="container-fluid umivale-container-nopadding" >
+<!--Configured containers Type: container-fluid-->
+<div class="column">
+<style>
+.web-call-actions-component-background-image-1{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-orange-header.jpg);
+}
+.web-call-actions-component-background-image-2{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-blue-header.png);
+}
+</style>
+<div class="umivale-call-action-container web-call-actions-component-background-image-2">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="umivale-call-action-img-container">
+<img class="img img-raised img-rounded img-responsive img-umivale-transparent" src="/.imaging/mte/umivale-bootstrap-module/callActionImage/dam/umivale-activa/absentismo-y-competitividad/imagenabsentismo.jpg/jcr:content/imagenabsentismo.jpg" alt="estudio sobre la incapacidad temporal y siniestralidad" >
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="container-h3 margin-top-call-action-title">
+<h2 class="umivale-call-action-title">
+<div>Analizamos, junto al Ivie, la incapacidad temporal y la siniestralidad en Espa&ntilde;a</div>
+</h2>
+</div>
+<div class="container-button">
+<a href="/salud-y-absentismo-laboral/estudio-sobre-it-y-siniestralidad" class="btn btn-round umivale-btn-orange" title="Pincha para acceder al contenido">
+<div>M&aacute;s informaci&oacute;n</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div></div><div class="container-fluid umivale-container-nopadding" >
+<!--Configured containers Type: container-fluid-->
+<div class="column">
+</div></div><div class="container mb15 mt15" >
+<!--Configured containers Type: container-->
+<div class="column">
+<div class="htmlComponent col-md-6 mb50">
+<br/><h3 class="info-title">Prevención y salud</h3>
+<p>Desde <strong>Umivale Activa</strong>, te contamos las mejores prácticas en prevención y en promoción de la salud para tu empresa. Contenidos actualizados con novedades mensuales.</p>
+<div class="col-xs-12 button-align-left">
+<a class="nav-link active" href="https://umivaleactiva.es/prevencion-y-salud">
+<button type="button" class="
+btn btn-round umivale-btn-orange umivale-btn-medium
+" style="">
+<span>Descubre los consejos de Umivale Activa</span>
+<div class="ripple-container"></div>
+</button>
+</a>
+</div>
+</div><div class="imageComponent col-md-6 mb50">
+<div class="imageBox">
+<a data-toggle="modal" data-target="#myModal_jcrf67aa5db-c452-44b8-8ee2-d26b3e575350">
+<img class='img-responsive img' src='/.imaging/mte/umivale-bootstrap-module/half/dam/umivale-activa/paginas-web-corporativa/portada/PREVENCION_SALUD_1.jpg.jpg/jcr:content/PREVENCION_SALUD_1.jpg' alt='prevención y salud'>
+</a>
+</div>
+<div class="modal fade" id="myModal_jcrf67aa5db-c452-44b8-8ee2-d26b3e575350" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg modal-large">
+<div class="modal-content">
+<div class="modal-body">
+<img src="/dam/jcr:f67aa5db-c452-44b8-8ee2-d26b3e575350/PREVENCION_SALUD_1.jpg" class='img-responsive' alt="prevención y salud">
+</div>
+</div>
+</div>
+</div>
+</div> </div><div class="column">
+</div><div class="column">
+</div></div><div class="container mb15 mt15" >
+<!--Configured containers Type: container-->
+<div class="column">
+<div class="imageComponent col-md-6 mb50">
+<div class="imageBox">
+<a data-toggle="modal" data-target="#myModal_jcr9781f5c5-673e-4b07-b1ba-5102b6bc32c1">
+<img class='img-responsive img' src='/.imaging/mte/umivale-bootstrap-module/half/dam/umivale-activa/paginas-web-corporativa/portada/grupo_de_personas_poniendo_las_manos_en_medio_de_un_circulo.jpg/jcr:content/grupo_de_personas_poniendo_las_manos_en_medio_de_un_circulo.jpg' alt='grupo de personas saludables haciendo ejercicio'>
+</a>
+</div>
+<div class="modal fade" id="myModal_jcr9781f5c5-673e-4b07-b1ba-5102b6bc32c1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg modal-large">
+<div class="modal-content">
+<div class="modal-body">
+<img src="/dam/jcr:9781f5c5-673e-4b07-b1ba-5102b6bc32c1/grupo_de_personas_poniendo_las_manos_en_medio_de_un_circulo.jpg" class='img-responsive' alt="grupo de personas saludables haciendo ejercicio">
+</div>
+</div>
+</div>
+</div>
+</div><div class="htmlComponent col-md-6 mb50">
+<br/><h3 class="info-title"><b>¡Apúntate a la Escuela de Salud!</b></h3>
+<p><b>Abrimos inscripciones</b>. Entra y descubre los nuevos planes formativos que hemos preparado para ti.</p>
+<p>Tu salud es nuestra prioridad</p>
+<div class="col-xs-12 button-align-left">
+<a class="nav-link active" href="https://umivaleactiva.es/prevencion-y-salud/promocion-de-la-salud/escuela-de-salud">
+<button type="button" class="btn btn-round umivale-btn-orange umivale-btn-medium" style=""><span>Más información</span>
+<div class="ripple-container"></div>
+</button>
+</a>
+</div>
+</div> </div><div class="column">
+</div><div class="column">
+</div></div><!--Configured containers Type: none-->
+<div class="column mb30">
+<style>
+.web-call-actions-component-background-image-1{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-orange-header.jpg);
+}
+.web-call-actions-component-background-image-2{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-blue-header.png);
+}
+</style>
+<div class="umivale-call-action-container web-call-actions-component-background-image-2">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="container-h3 margin-top-call-action-title">
+<h2 class="umivale-call-action-title">
+<div>&iquest;Necesitas asesoramiento? Queremos ser tu mutua</div>
+</h2>
+</div>
+<div class="container-button">
+<a href="/por-que-elegirnos/solicitud-asesoramiento" target="_blank" class="btn btn-round umivale-btn-orange" title="Pincha para acceder al contenido">
+<div>Solicita m&aacute;s informaci&oacute;n</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="umivale-call-action-img-container">
+<img class="img img-raised img-rounded img-responsive img-umivale-transparent" src="/.imaging/mte/umivale-bootstrap-module/callActionImage/dam/umivale-activa/paginas-web-corporativa/asesoramiento.jpg/jcr:content/asesoramiento.jpg" alt="solicitud de asesoramiento" >
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div><div class="container mb15 mt50" >
+<!--Configured containers Type: container-->
+<div class="column">
+<div class="imageComponent col-md-5 mb50">
+<div class="imageBox">
+<img class='img-responsive img' src='/.imaging/mte/umivale-bootstrap-module/half/dam/umivale-activa/paginas-web-corporativa/portada/2366.jpg/jcr:content/2366.jpg' alt='umivale activa online empresas'>
+</div>
+</div><div class="htmlComponent col-md-6 col-md-offset-1">
+<h3 class="info-title">Umivale Activa online empresas</h3>
+<p>Ponemos a tu alcance, las mejores <strong>herramientas de gesti&oacute;n online</strong>, con el objetivo de facilitarte la consulta de toda la informaci&oacute;n que necesitas en un s&oacute;lo clic y en tiempo real.</p>
+<p><strong>Con versión escritorio y app</strong>, podrás consultar el <strong>informe de absentismo personalizado</strong>, las asistencias médicas de las trabajadoras y trabajadores y las actuaciones realizadas, las deducciones a practicar, el pedido de botiquín, etc.
+</p>
+<div class="col-xs-12 button-align-left">
+<a class="nav-link active" href="https://umivaleactiva.es/online/empresas">
+<button type="button" class="
+btn btn-round umivale-btn-orange umivale-btn-medium
+" style="">
+<span>Más información</span>
+<div class="ripple-container"></div>
+</button>
+</a>
+</div>
+</div> </div><div class="column">
+</div><div class="column">
+</div></div><div class="container mb15 mt15" >
+<!--Configured containers Type: container-->
+<div class="column container">
+<div class="htmlComponent col-md-6 mb50">
+<h3>Umivale Activa online personas</h3>
+<p><strong>App y web </strong>que te informa sobre <strong>tus asistencias y prestaciones</strong> al momento.</p>
+<p align="left">Te suscribes a<strong> recordatorios </strong>cuando tienes una <strong>cita con el personal médico </strong>y localizas el <strong>centro Umivale Activa más cercano</strong> a tu posición.</p>
+<div class="col-xs-12 button-align-left">
+<a class="nav-link active" href="https://umivaleactiva.es/online/personas">
+<button type="button" class="
+btn btn-round umivale-btn-orange umivale-btn-medium
+" style="">
+<span>Más información</span>
+<div class="ripple-container"></div>
+</button>
+</a>
+</div>
+</div><div class="imageComponent col-md-6 mb30">
+<div class="imageBox">
+<img class='img-responsive img' src='/.imaging/mte/umivale-bootstrap-module/half/dam/umivale-activa/paginas-web-corporativa/portada/online-pacientes-2.jpg/jcr:content/online%20pacientes%202.jpg' alt=''>
+</div>
+</div> </div><div class="column">
+</div><div class="column">
+</div></div><!--Configured containers Type: none-->
+<div class="column mb30">
+<style>
+.web-call-actions-component-background-image-1{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-orange-header.jpg);
+}
+.web-call-actions-component-background-image-2{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-blue-header.png);
+}
+</style>
+<div class="umivale-call-action-container web-call-actions-component-background-image-2">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="container-h3 margin-top-call-action-title">
+<h2 class="umivale-call-action-title">
+<div>&iquest;Quieres recibir los &uacute;ltimos art&iacute;culos sobre consejos, h&aacute;bitos saludables, novedades normativas, actualidad, etc.?</div>
+</h2>
+</div>
+<div class="container-button">
+<a href="/actualidad/suscripcion-newsletter" target="_blank" class="btn btn-round umivale-btn-orange" title="Pincha para acceder al contenido">
+<div>Suscr&iacute;bete a la newsletter</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="umivale-call-action-img-container">
+<img class="img img-raised img-rounded img-responsive img-umivale-transparent" src="/.imaging/mte/umivale-bootstrap-module/callActionImage/dam/fotos-paginas-web/fotos-cabeceras/NEWSLETTER.jpg/jcr:content/NEWSLETTER.jpg" alt="newsletter" >
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div><div class="container mt30" >
+<!--Configured containers Type: container-->
+<div class="column container">
+<div class="htmlComponent col-md-6 mb30">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe title="iframe" class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/yjgqoS0vNN4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div><div class="htmlComponent col-md-6">
+<h3>¿Mides la salud laboral de tu empresa? </h3>
+<br>
+<div class="col-xs-12 button-align-left">
+<a class="nav-link active" href="https://umivaleactiva.es/por-que-elegirnos/solicitud-asesoramiento">
+<button type="button" class="
+btn btn-round umivale-btn-orange umivale-btn-medium
+" style="">
+<span>¿Te ayudamos?</span>
+<div class="ripple-container"></div>
+</button>
+</a>
+</div>
+</div> </div><div class="column">
+</div><div class="column">
+</div></div><!--Configured containers Type: none-->
+<div class="column">
+<style>
+.web-call-actions-component-background-image-1{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-orange-header.jpg);
+}
+.web-call-actions-component-background-image-2{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-blue-header.png);
+}
+</style>
+<div class="umivale-call-action-container web-call-actions-component-background-image-2">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="container-h3 margin-top-call-action-title">
+<h2 class="umivale-call-action-title">
+<div>Calendarios laborales y d&iacute;as festivos 2026</div>
+</h2>
+</div>
+<div class="container-button">
+<a href="/preguntas-frecuentes/tambien-puede-interesarte/calendario-laboral" target="_blank" class="btn btn-round umivale-btn-orange" title="Pincha para acceder al contenido">
+<div>Descargar</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="umivale-call-action-img-container">
+<img class="img img-raised img-rounded img-responsive img-umivale-transparent" src="/.imaging/mte/umivale-bootstrap-module/callActionImage/dam/umivale-activa/cabeceras-mailings/calendarios_2025.jpg/jcr:content/cabecera_calendario%20laboral_2026.jpg" alt="calendarios_2025" >
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div><div class="container mt50" >
+<!--Configured containers Type: container-->
+<div class="column">
+<style>
+.web-links-component-background-color{
+background-color: #FFFF;
+}
+</style>
+<div class="section section-basic">
+<div class="row">
+<div class="row text-center">
+<div class="title col-xs-12">
+<div class="imgcentro"><h2 class="umivale-section-title">¿Qué hacer en caso de accidente de trabajo o enfermedad profesional?</h2></div>
+</div>
+<div class="umivale-section-description col-xs-12">
+<p>Si alguna persona de tu empresa ha sufrido un accidente de trabajo o puede tener una enfermedad profesional, &iquest;qu&eacute; debe&nbsp;hacer? Si eres empresa, paciente, aut&oacute;noma, aut&oacute;nomo o colaboras con&nbsp;la mutua, entra en tu perfil.</p>
+</div>
+</div>
+<div class="col-xs-12">
+<div class="row umivale-service-section">
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 umivale-service-column text-center">
+<div class="info">
+<a href="/preguntas-frecuentes/tambien-puede-interesarte/en-caso-de-accidente-o-enfermedad-profesional" aria-label="Empresa" class="icon icon-info">
+<span class="material-icons umivale-text-blue icon-empresa"></span>
+<div class="hidden-lg hidden-md hidden-sm hidden xs">Link-icon</div>
+</a>
+<div class="link-item-title">
+<p class="info-title"><span>Empresa</span></p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 umivale-service-column text-center">
+<div class="info">
+<a href="/preguntas-frecuentes/tambien-puede-interesarte/en-caso-de-accidente-o-enfermedad-profesional-trabajador" aria-label="Trabajadora/Trabajador" class="icon icon-info">
+<span class="material-icons umivale-text-blue icon-trabajador"></span>
+<div class="hidden-lg hidden-md hidden-sm hidden xs">Link-icon</div>
+</a>
+<div class="link-item-title">
+<p class="info-title"><span>Trabajadora/Trabajador</span></p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 umivale-service-column text-center">
+<div class="info">
+<a href="/preguntas-frecuentes/tambien-puede-interesarte/en-caso-de-accidente-o-enfermedad-profesional-autonomo" aria-label="Autónoma/Autónomo" class="icon icon-info">
+<span class="material-icons umivale-text-blue icon-autonomo"></span>
+<div class="hidden-lg hidden-md hidden-sm hidden xs">Link-icon</div>
+</a>
+<div class="link-item-title">
+<p class="info-title"><span>Autónoma/Autónomo</span></p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 umivale-service-column text-center">
+<div class="info">
+<a href="/preguntas-frecuentes/tambien-puede-interesarte/en-caso-de-accidente-o-enfermedad-profesional" aria-label="Despacho" class="icon icon-info">
+<span class="material-icons umivale-text-blue icon-despacho"></span>
+<div class="hidden-lg hidden-md hidden-sm hidden xs">Link-icon</div>
+</a>
+<div class="link-item-title">
+<p class="info-title"><span>Despacho</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div></div><div class="container-fluid umivale-container-nopadding" >
+<!--Configured containers Type: container-fluid-->
+<div class="column">
+<style>
+.web-call-actions-component-background-image-1{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-orange-header.jpg);
+}
+.web-call-actions-component-background-image-2{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-blue-header.png);
+}
+</style>
+<div class="umivale-call-action-container web-call-actions-component-background-image-2">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="callActionIcon"><span class="iconActionWhite icon-formularios"></span></div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="container-h3 margin-top-call-action-title">
+<h2 class="umivale-call-action-title">
+<div>&iquest;Has tenido un accidente de trabajo?</div>
+</h2>
+</div>
+<div class="container-button">
+<a href="/dam/jcr:b44a0c79-0dac-4688-a7a7-be892569880d/1.%20Parte%20de%20Asistencia%20Sanitaria%20UA%20V4.pdf" class="btn btn-round umivale-btn-orange" title="Pincha para acceder al contenido">
+<div>Desc&aacute;rgate solicitud de asistencia</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div></div><div class="container mt50 col-md-10 col-md-offset-1" >
+<!--Configured containers Type: container-->
+<div class="column">
+<h2 class="umivale-section-title text-center umivale-text-blue">El blog de Umivale Activa</h2>
+<script>
+function dync_updateMoreContentButton_66a4656a_4bda_466d_ad39_deaf1d28ec20(cid)
+{
+var elementoFinal = $('#blogList-'+cid).find("div[data-dyn-last-item='true']").first();
+if (elementoFinal!=undefined && elementoFinal.length>0)
+$('#bmore-'+cid).hide();
+}
+function dync_loadContent_66a4656a_4bda_466d_ad39_deaf1d28ec20(cid,cpath,category)
+{
+var offset = $('#blogList-'+cid).find( '[data-dyn-last-item]' ).length;
+$.get(cpath+'.html?ajax=true&offset='+offset+'&categoria='+category ,function(data) {
+$('#blogList-'+cid).html($('#blogList-'+cid).html()+data);
+dync_updateMoreContentButton_66a4656a_4bda_466d_ad39_deaf1d28ec20(cid);
+});
+}
+</script>
+<div id="blogList-66a4656a_4bda_466d_ad39_deaf1d28ec20">
+<!--OPEN ODD-->
+<div class="column">
+<div class="card card-profile card-plain">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="blogItem-eb086a88-82da-4d2f-b9b5-58819ed5fffa" data-dyn-last-item="false">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="card-header card-header-image">
+<a href="/blog/actualidad/noticia-actualidad/dynacontent/tu-cuerpo-est--hecho-para-moverse--cada-peque-o-gesto-cuenta-para-tu-salud" title="Tu cuerpo está hecho para moverse: cada pequeño gesto cuenta para tu salud" aria-label="Tu cuerpo está hecho para moverse: cada pequeño gesto cuenta para tu salud">
+<img class="img img-raised img-rounded img-responsive" src="/.imaging/mte/umivale-bootstrap-module/relatedContent/dam/fotos-blog/Fotos-blog-2026/happy-young-couple-field-spring.jpg/jcr:content/happy-young-couple-field-spring.jpg" alt="caminar">
+</a>
+<div class="ripple-container"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="card-body">
+<a href="/blog/actualidad/noticia-actualidad/dynacontent/tu-cuerpo-est--hecho-para-moverse--cada-peque-o-gesto-cuenta-para-tu-salud" title="Tu cuerpo está hecho para moverse: cada pequeño gesto cuenta para tu salud" aria-label="Tu cuerpo está hecho para moverse: cada pequeño gesto cuenta para tu salud">
+<h4 class="card-title umivale-novedades-normativas-title">Tu cuerpo está hecho para moverse: cada pequeño gesto cuenta para tu salud</h4>
+</a>
+<p class="card-description">Pasar muchas horas sentados afecta a la salud y al bienestar. Incorporar pequeños gestos de movimiento a lo largo del día puede marcar una gran diferencia en cómo te sientes y rindes.</p>
+</div>
+</div>
+</div>
+<!--CLOSE ODD-->
+<!--OPEN EVEN-->
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="blogItem-9c140318-81aa-4493-9f42-dc821067b55b" data-dyn-last-item="false">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="card-header card-header-image">
+<a href="/blog/actualidad/noticia-actualidad/dynacontent/trastornos-ansiedad-sintomas-prevencion" title="Trastornos de ansiedad: qué son, síntomas y medidas preventivas" aria-label="Trastornos de ansiedad: qué son, síntomas y medidas preventivas">
+<img class="img img-raised img-rounded img-responsive" src="/.imaging/mte/umivale-bootstrap-module/relatedContent/dam/fotos-blog/Fotos-blog-2026/persona-haciendo-t-cnica-de-relajacion-copia.jpg/jcr:content/persona-haciendo-t%C3%A9cnica-de-relajacion%20copia.jpg" alt="persona-haciendo-técnica-de-relajacion copia">
+</a>
+<div class="ripple-container"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="card-body">
+<a href="/blog/actualidad/noticia-actualidad/dynacontent/trastornos-ansiedad-sintomas-prevencion" title="Trastornos de ansiedad: qué son, síntomas y medidas preventivas" aria-label="Trastornos de ansiedad: qué son, síntomas y medidas preventivas">
+<h4 class="card-title umivale-novedades-normativas-title">Trastornos de ansiedad: qué son, síntomas y medidas preventivas</h4>
+</a>
+<p class="card-description">Publicamos una campaña informativa y de sensibilización con motivo del Día Nacional de la Psicología</p>
+</div>
+</div>
+</div>
+<!--CLOSE EVEN-->
+</div>
+<!--OPEN ODD-->
+<div class="column">
+<div class="card card-profile card-plain">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="blogItem-0b1152b3-0e00-4abc-b7cd-0edc97ffd452" data-dyn-last-item="false">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="card-header card-header-image">
+<a href="/blog/actualidad/noticia-actualidad/dynacontent/intolerancias-y-alergias-alimentarias--aprende-a-distinguirlas-y-conoce-los-tipos-que-hay" title="Intolerancias y alergias alimentarias: aprende a distinguirlas y conoce los tipos que hay" aria-label="Intolerancias y alergias alimentarias: aprende a distinguirlas y conoce los tipos que hay">
+<img class="img img-raised img-rounded img-responsive" src="/.imaging/mte/umivale-bootstrap-module/relatedContent/dam/fotos-blog/Fotos-blog-2026/assortment-food-that-can-cause-allergic-reaction-people.jpg/jcr:content/assortment-food-that-can-cause-allergic-reaction-people.jpg" alt="alergias alimentarias">
+</a>
+<div class="ripple-container"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="card-body">
+<a href="/blog/actualidad/noticia-actualidad/dynacontent/intolerancias-y-alergias-alimentarias--aprende-a-distinguirlas-y-conoce-los-tipos-que-hay" title="Intolerancias y alergias alimentarias: aprende a distinguirlas y conoce los tipos que hay" aria-label="Intolerancias y alergias alimentarias: aprende a distinguirlas y conoce los tipos que hay">
+<h4 class="card-title umivale-novedades-normativas-title">Intolerancias y alergias alimentarias: aprende a distinguirlas y conoce los tipos que hay</h4>
+</a>
+<p class="card-description">Las reacciones adversas a los alimentos no son todas iguales. En este artículo explicamos de forma sencilla qué son las alergias e intolerancias alimentarias y cómo diferenciarlas.</p>
+</div>
+</div>
+</div>
+<!--CLOSE ODD-->
+<!--OPEN EVEN-->
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="blogItem-c4e062f6-f71a-460f-b615-979d66b12653" data-dyn-last-item="false">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="card-header card-header-image">
+<a href="/blog/actualidad/noticia-actualidad/dynacontent/125-personas-fallecen-al-a-o-intoxicadas-por-mon-xido-de-carbono" title="125 personas fallecen al año intoxicadas por monóxido de carbono" aria-label="125 personas fallecen al año intoxicadas por monóxido de carbono">
+<img class="img img-raised img-rounded img-responsive" src="/.imaging/mte/umivale-bootstrap-module/relatedContent/dam/fotos-blog/Fotos-blog-2026/t-cnico-de-mantenimiento-en-una-cocina-con-un-detector-de-mon-xido-carbono-en-la-mano-copia.png/jcr:content/t%C3%A9cnico%20de%20mantenimiento%20en%20una%20cocina%20con%20un%20detector%20de%20mon%C3%B3xido%20carbono%20en%20la%20mano%20copia.png" alt="técnico de mantenimiento en una cocina con un detector de monóxido carbono en la mano copia">
+</a>
+<div class="ripple-container"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="card-body">
+<a href="/blog/actualidad/noticia-actualidad/dynacontent/125-personas-fallecen-al-a-o-intoxicadas-por-mon-xido-de-carbono" title="125 personas fallecen al año intoxicadas por monóxido de carbono" aria-label="125 personas fallecen al año intoxicadas por monóxido de carbono">
+<h4 class="card-title umivale-novedades-normativas-title">125 personas fallecen al año intoxicadas por monóxido de carbono</h4>
+</a>
+<p class="card-description">La mutua Umivale Activa publica una campaña informativa y de sensibilización para reducir los accidentes causados por la exposición a este gas</p>
+</div>
+</div>
+</div>
+<!--CLOSE EVEN-->
+</div>
+</div></div> </div>
+<div class="row">
+<div class="col-lg-12 col-xs-12">
+<div class="text-center">
+<a id="bmore-66a4656a_4bda_466d_ad39_deaf1d28ec20" title="Ver más entradas" class="btn btn-round umivale-btn-blue" onclick="dync_loadContent_66a4656a_4bda_466d_ad39_deaf1d28ec20('66a4656a_4bda_466d_ad39_deaf1d28ec20','/umivaleactiva.es/main/012/cols/col1/group/00', '');">
+<span class="material-icons">keyboard_arrow_down</span> Ver más entradas
+</a>
+<hr class="umivale-btn-hr">
+</div>
+</div>
+</div>
+<script>
+dync_updateMoreContentButton_66a4656a_4bda_466d_ad39_deaf1d28ec20("66a4656a_4bda_466d_ad39_deaf1d28ec20");
+</script>
+<script>
+function addLike(nodoID) {
+var params = {
+nodo: nodoID,
+val: "1"
+};
+$.ajax({
+type: "POST",
+url: "/LikesTrackingServlet",
+contentType: "application/x-www-form-urlencoded", // NOT dataType!
+data: params,
+success: function(response) {
+$("#likesSpan"+nodoID).text(response);
+$("#likesButton"+nodoID).prop('disabled', true);
+}
+});
+}
+$(function() {
+var listItem = document.getElementById('element-list');
+if(listItem != null && listItem != undefined && listItem != ''){
+var eventList = new List(listItem, {
+valueNames: ['main-news-title','date-social','news-text'],
+page: 4,
+pagination: true
+});
+}
+$(".search").keyup(function () {
+eventList.search($(this).val(),['main-news-title','date-social','news-text']);
+});
+});
+</script>
+</div></div><div class="container-fluid umivale-container-nopadding" >
+<!--Configured containers Type: container-fluid-->
+<div class="column">
+<style>
+.web-call-actions-component-background-image-1{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-orange-header.jpg);
+}
+.web-call-actions-component-background-image-2{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-blue-header.png);
+}
+</style>
+<div class="umivale-call-action-container web-call-actions-component-background-image-2">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="callActionIcon"><span class="iconActionWhite material-icons umivale-text-blue icon-codigo-etico textImageIcon"></span></div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="container-h3 margin-top-call-action-title">
+<h2 class="umivale-call-action-title">
+<div>&iquest;Sabes qu&eacute; es el canal de cumplimiento? Env&iacute;anos tu comunicaci&oacute;n a trav&eacute;s de este portal</div>
+</h2>
+</div>
+<div class="container-button">
+<a href="/portal-de-transparencia/canal-cumplimiento" class="btn btn-round umivale-btn-orange" title="Pincha para acceder al contenido">
+<div>Entra en el canal</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div></div><div class="container mt50 col-md-10 col-md-offset-1" >
+<!--Configured containers Type: container-->
+<div class="column">
+<h2 class="umivale-section-title text-center umivale-text-blue">Novedades normativas</h2>
+<script>
+function dync_updateMoreContentButton_53aee792_1030_44b5_bbfb_3ac99c2950aa(cid)
+{
+var elementoFinal = $('#blogList-'+cid).find("div[data-dyn-last-item='true']").first();
+if (elementoFinal!=undefined && elementoFinal.length>0)
+$('#bmore-'+cid).hide();
+}
+function dync_loadContent_53aee792_1030_44b5_bbfb_3ac99c2950aa(cid,cpath,category)
+{
+var offset = $('#blogList-'+cid).find( '[data-dyn-last-item]' ).length;
+$.get(cpath+'.html?ajax=true&offset='+offset+'&categoria='+category ,function(data) {
+$('#blogList-'+cid).html($('#blogList-'+cid).html()+data);
+dync_updateMoreContentButton_53aee792_1030_44b5_bbfb_3ac99c2950aa(cid);
+});
+}
+</script>
+<div id="blogList-53aee792_1030_44b5_bbfb_3ac99c2950aa">
+<!--OPEN ODD-->
+<div class="column">
+<div class="card card-profile card-plain">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="blogItem-7908a272-b799-42d0-932a-2353a544efa8" data-dyn-last-item="false">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="card-header card-header-image">
+<a href="/ficha-novedades/dynacontent/real-decreto-126-2026--de-18-de-febrero--por-el-que-se-fija-el-salario-m-nimo-interprofesional-para-2026." title="Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026." aria-label="Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026.">
+<img class="img img-raised img-rounded img-responsive" src="/.imaging/mte/umivale-bootstrap-module/relatedContent/dam/fotos-blog/Fotos-blog-2026/man-mobile-people-background-business.jpg/jcr:content/man-mobile-people-background-business.jpg" alt="Salario minimo interprofesional">
+</a>
+<div class="ripple-container"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="card-body">
+<a href="/ficha-novedades/dynacontent/real-decreto-126-2026--de-18-de-febrero--por-el-que-se-fija-el-salario-m-nimo-interprofesional-para-2026." title="Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026." aria-label="Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026.">
+<h4 class="card-title umivale-novedades-normativas-title">Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026.</h4>
+</a>
+<p class="card-description">Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario m&iacute;nimo interprofesional para 2026.(BOE).
+Publicado el d&iacute;a 19/02/2026 y con entrada en vigor el d&iacute;a 20/02/2026.&nbsp;Durante el periodo entre el 01/01/2026 y el 31/12/2026, procediendo el abono del ...</p>
+</div>
+</div>
+</div>
+<!--CLOSE ODD-->
+<!--OPEN EVEN-->
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="blogItem-351e3962-d20d-45c5-8ea8-05f20cc1a0d2" data-dyn-last-item="false">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="card-header card-header-image">
+<a href="/ficha-novedades/dynacontent/real-decreto-ley-5-2026-de-medidas-urgentes-de-respuesta-ante-da-os-meteorol-gicos-adversos" title="Real Decreto ley 5/2026 de medidas urgentes de respuesta ante daños por fenómenos meteorológicos adversos" aria-label="Real Decreto ley 5/2026 de medidas urgentes de respuesta ante daños por fenómenos meteorológicos adversos">
+<img class="img img-raised img-rounded img-responsive" src="/.imaging/mte/umivale-bootstrap-module/relatedContent/dam/novedades-normativas-web.JPG/jcr:content/novedades%20normativas%20web.JPG" alt="novedades normativas">
+</a>
+<div class="ripple-container"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="card-body">
+<a href="/ficha-novedades/dynacontent/real-decreto-ley-5-2026-de-medidas-urgentes-de-respuesta-ante-da-os-meteorol-gicos-adversos" title="Real Decreto ley 5/2026 de medidas urgentes de respuesta ante daños por fenómenos meteorológicos adversos" aria-label="Real Decreto ley 5/2026 de medidas urgentes de respuesta ante daños por fenómenos meteorológicos adversos">
+<h4 class="card-title umivale-novedades-normativas-title">Real Decreto ley 5/2026 de medidas urgentes de respuesta ante daños por fenómenos meteorológicos adversos</h4>
+</a>
+<p class="card-description">Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los da&ntilde;os causados por diversos fen&oacute;menos meteorol&oacute;gicos adversos, de especial afectaci&oacute;n en las comunidades aut&oacute;nomas de Andaluc&iacute;a y Extremadura. ...</p>
+</div>
+</div>
+</div>
+<!--CLOSE EVEN-->
+</div>
+<!--OPEN ODD-->
+<div class="column">
+<div class="card card-profile card-plain">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="blogItem-cb7b4512-97a7-4cda-bb57-4ab15faa3585" data-dyn-last-item="false">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="card-header card-header-image">
+<a href="/ficha-novedades/dynacontent/real-decreto-ley-3-2026--de-3-de-febrero--para-la-revalorizaci-n-de-las-pensiones-p-blicas-y-otras-medidas-urgentes-en-materia-de-seguridad-social." title="Real Decreto Ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social." aria-label="Real Decreto Ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social.">
+<img class="img img-raised img-rounded img-responsive" src="/.imaging/mte/umivale-bootstrap-module/relatedContent/dam/fotos-blog/Fotos-blog-2026/pensiones-2.jpg/jcr:content/pensiones%202.jpg" alt="Pensiones_2">
+</a>
+<div class="ripple-container"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="card-body">
+<a href="/ficha-novedades/dynacontent/real-decreto-ley-3-2026--de-3-de-febrero--para-la-revalorizaci-n-de-las-pensiones-p-blicas-y-otras-medidas-urgentes-en-materia-de-seguridad-social." title="Real Decreto Ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social." aria-label="Real Decreto Ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social.">
+<h4 class="card-title umivale-novedades-normativas-title">Real Decreto Ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social.</h4>
+</a>
+<p class="card-description">Real Decreto Ley 3/2026, de 3 de febrero, para la revalorizaci&oacute;n de las pensiones p&uacute;blicas y otras medidas urgentes en materia de la Seguridad Social (BOE).
+Publicado en el BOE el d&iacute;a 4/02/2026 y con entrada en vigor el 4/02/2026, con efectos desde el 1/01/2026, con las ...</p>
+</div>
+</div>
+</div>
+<!--CLOSE ODD-->
+<!--OPEN EVEN-->
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" id="blogItem-cbaaf2d7-992d-4e18-bd2e-01d03ef2e31d" data-dyn-last-item="false">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="card-header card-header-image">
+<a href="/ficha-novedades/dynacontent/real-decreto-2-2026-medidas-urgentes-situaciones-vulnerabilidad-social-materia-tributaria-recursos-sistemas-financiacion-territorial" title="Real Decreto Ley 2/2026 de medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial" aria-label="Real Decreto Ley 2/2026 de medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial">
+<img class="img img-raised img-rounded img-responsive" src="/.imaging/mte/umivale-bootstrap-module/relatedContent/dam/fotos-blog/actualidad-umivale/otros/recurso-manos-web.JPG/jcr:content/recurso%20manos%20web.JPG" alt="manos">
+</a>
+<div class="ripple-container"></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="card-body">
+<a href="/ficha-novedades/dynacontent/real-decreto-2-2026-medidas-urgentes-situaciones-vulnerabilidad-social-materia-tributaria-recursos-sistemas-financiacion-territorial" title="Real Decreto Ley 2/2026 de medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial" aria-label="Real Decreto Ley 2/2026 de medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial">
+<h4 class="card-title umivale-novedades-normativas-title">Real Decreto Ley 2/2026 de medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial</h4>
+</a>
+<p class="card-description">Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiaci&oacute;n territorial (BOE)
+Publicado en el BOE el 4 de febrero de 2026 y con ...</p>
+</div>
+</div>
+</div>
+<!--CLOSE EVEN-->
+</div>
+</div></div> </div>
+<div class="row">
+<div class="col-lg-12 col-xs-12">
+<div class="text-center">
+<a id="bmore-53aee792_1030_44b5_bbfb_3ac99c2950aa" title="Ver más entradas" class="btn btn-round umivale-btn-blue" onclick="dync_loadContent_53aee792_1030_44b5_bbfb_3ac99c2950aa('53aee792_1030_44b5_bbfb_3ac99c2950aa','/umivaleactiva.es/main/018/cols/col1/group/00', '');">
+<span class="material-icons">keyboard_arrow_down</span> Ver más entradas
+</a>
+<hr class="umivale-btn-hr">
+</div>
+</div>
+</div>
+<script>
+dync_updateMoreContentButton_53aee792_1030_44b5_bbfb_3ac99c2950aa("53aee792_1030_44b5_bbfb_3ac99c2950aa");
+</script>
+<script>
+function addLike(nodoID) {
+var params = {
+nodo: nodoID,
+val: "1"
+};
+$.ajax({
+type: "POST",
+url: "/LikesTrackingServlet",
+contentType: "application/x-www-form-urlencoded", // NOT dataType!
+data: params,
+success: function(response) {
+$("#likesSpan"+nodoID).text(response);
+$("#likesButton"+nodoID).prop('disabled', true);
+}
+});
+}
+$(function() {
+var listItem = document.getElementById('element-list');
+if(listItem != null && listItem != undefined && listItem != ''){
+var eventList = new List(listItem, {
+valueNames: ['main-news-title','date-social','news-text'],
+page: 4,
+pagination: true
+});
+}
+$(".search").keyup(function () {
+eventList.search($(this).val(),['main-news-title','date-social','news-text']);
+});
+});
+</script>
+</div></div><div class="container-fluid umivale-container-nopadding" >
+<!--Configured containers Type: container-fluid-->
+<div class="column">
+<style>
+.web-call-actions-component-background-image-1{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-orange-header.jpg);
+}
+.web-call-actions-component-background-image-2{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-blue-header.png);
+}
+</style>
+<div class="umivale-call-action-container web-call-actions-component-background-image-2">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="callActionIcon"><span class="iconActionWhite icon-preguntas-frecuentes"></span></div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="container-h3 margin-top-call-action-title">
+<h2 class="umivale-call-action-title">
+<div>Todas las respuestas en nuestra secci&oacute;n de Atenci&oacute;n al Cliente</div>
+</h2>
+</div>
+<div class="container-button">
+<a href="/preguntas-frecuentes/tambien-puede-interesarte/atencion-al-cliente" class="btn btn-round umivale-btn-orange" title="Pincha para acceder al contenido">
+<div>Accede&nbsp;</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div></div><div class="container-fluid mt30" >
+<!--Configured containers Type: container-fluid-->
+<div class="column">
+<h2 class="umivale-section-title text-center umivale-text-blue">Canal consejos Umivale Activa</h2>
+<div class="rowx" id="yt_playlist_content_items_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd">
+<!--<ul>
+</ul>-->
+</div>
+<div class="modal fade" id="youtube-player_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content youtube-close-keyup">
+<div class="modal-header youtube-player-modal-header">
+<span class="modal-title" id="exampleModalLabel_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd"><span class="umivale-text">Umivale Activa</span> TV</span>
+<button type="button" class="close youtube-component-close-button" data-dismiss="modal" aria-label="Close" onclick="yt_closeDetail_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd();">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body youtube-player-modal-body">
+<iframe id="youtube-player-iframe-mini_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd" name="youtubeIframe" title="Video Umivale" width="100%" allowtransparency="true" allowscriptaccess="always" height="400" allow="autoplay;" allowfullscreen="true"></iframe>
+<h4 id="youtube-player-title_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd" class="title">Titulo vídeo</h4>
+</div>
+</div>
+</div>
+</div>
+<!--
+<div class="modal fade" id="youtube-player_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="display: none;">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<span class="modal-title" id="exampleModalLabel_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd"><span class="umivale-text">umivale</span> TV</span>
+<button type="button" class="close youtube-component-close-button" data-dismiss="modal" aria-label="Close" onclick="yt_closeDetail_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd();">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+<iframe id="youtube-player-iframe-mini_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd" width="100%" frameborder="0" allowscriptaccess="always" height="400" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+</div>
+-->
+<script>
+// **************************************************************************************************
+// PREPARACION API IFRAME YOUTUBE
+var tag = document.createElement('script');
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+//Variable global que se inicializa con el player al que accederan todos los metodos de control
+var playerInstance;
+function onYouTubeIframeAPIReadyCreateInstance() {
+//videoId: $('#youtube-player-iframe-mini_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd').attr('videoid'),
+playerInstance = new YT.Player('youtube-player-iframe-mini_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd', { events: {}});
+}
+// **************************************************************************************************
+// GESTIÓN APP YOUTUBE
+var yt_appData_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd = {videoList: []};
+function pad_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(n){return n<10 ? '0'+n : n}
+function yt_getAppVideoData_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(videoId)
+{
+for (var i = 0; i < yt_appData_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd.videoList.length; i++) {
+if (yt_appData_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd.videoList[i].videoId==videoId) return yt_appData_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd.videoList[i];
+}
+}
+// **************************************************************************************************
+// PLAYLISTS
+function yt_loadPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd()
+{
+var jsonURL="https://www.googleapis.com/youtube/v3/playlists?part=snippet&maxResults=20&channelId=&key=AIzaSyDtCXRz3PSPr4lTE4qzQG_wdcQKx0W_rLk";
+var request = new XMLHttpRequest();
+request.open('GET', jsonURL);
+request.responseType = 'json';
+request.send();
+request.onload = function() {
+if (request.status === 200) {
+var playlists = request.response;
+if(playlists.items == null) {
+playlists = JSON.parse(playlists);
+}
+} else {
+$(".noresults-error").show();
+}
+}
+}
+function yt_onPlaylistClick_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(playlistId)
+{
+//console.log('click: '+playlistId);
+yt_selectPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(playlistId);
+}
+function yt_selectPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(playlistId)
+{
+if (playlistId==="FEATURED")
+yt_loadFeaturedPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd();
+else
+yt_loadPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(playlistId);
+}
+// **************************************************************************************************
+// CARGA DE PLAYLIST - PORTADA
+function yt_loadFeaturedPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd()
+{
+var videoList = new Array();
+for (var i = 0; i < yt_appData_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd.videoList.length; i++)
+if (yt_appData_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd.videoList[i].featured==="true")
+videoList_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd.push(yt_appData.videoList[i].videoId);
+var jsonURL="https://www.googleapis.com/youtube/v3/videos?part=snippet&maxResults=20&id="+videoList.join()+"&key=AIzaSyDtCXRz3PSPr4lTE4qzQG_wdcQKx0W_rLk";
+var request = new XMLHttpRequest();
+request.open('GET', jsonURL);
+request.responseType = 'json';
+request.send();
+request.onload = function() {
+if (request.status === 200) {
+var data = request.response;
+if(data.items == null) {
+data = JSON.parse(data);
+}
+yt_renderPlaylistItems_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(true,yt_parsePlaylistItems_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(data));
+} else {
+$(".noresults-error").show();
+}
+}
+}
+// **************************************************************************************************
+// CARGA DE PLAYLIST - API
+function yt_loadPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(playlistId)
+{
+var jsonURL="https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=20&playlistId="+playlistId+"&key=AIzaSyDtCXRz3PSPr4lTE4qzQG_wdcQKx0W_rLk";
+var request = new XMLHttpRequest();
+request.open('GET', jsonURL);
+request.responseType = 'json';
+request.send();
+request.onload = function() {
+if (request.status === 200) {
+var data = request.response;
+if(data.items == null) {
+data = JSON.parse(data);
+}
+yt_renderPlaylistItems_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(true,yt_parsePlaylistItems_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(data));
+} else {
+$(".noresults-error").show();
+}
+}
+}
+function yt_parsePlaylistItems_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(data)
+{
+var videoList = new Array();
+for (var i = 0; i < data.items.length; i++) {
+//console.log('Procesando: '+data.items[i].snippet.title);
+var video = {};
+if (data.items[i].snippet.resourceId===undefined)
+video.videoId = data.items[i].id; //estamos procesando los videos de portada
+else
+video.videoId = data.items[i].snippet.resourceId.videoId; //estamos procesando un playlist normal
+video.title = data.items[i].snippet.title;
+video.date = new Date(data.items[i].snippet.publishedAt);
+video.description = data.items[i].snippet.description;
+video.thumbnail = data.items[i].snippet.thumbnails.high.url;
+//Comprobamos si el video est� registrado en la app de magnolia
+var appVideo = yt_getAppVideoData_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(video.videoId);
+if (appVideo!==undefined)
+video.links = appVideo.links;
+videoList.push(video);
+}
+return videoList;
+}
+// **************************************************************************************************
+// GENERAR NUMERO ALEATORIO DENTRO DEL RANGO VALIDO
+var usados_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd = [];
+function random_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd (items){
+var numVideos = items.length;
+var random = Math.floor(Math.random() * (numVideos));
+if(usados_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd.indexOf(random)>= 0 || random >= items.length){
+return random_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(items);
+}else{
+usados_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd.push(random);
+return random;
+}
+}
+// **************************************************************************************************
+// GENERAR LISTADO DE VIDEOS
+function yt_renderPlaylistItems_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(cleanup, items)
+{
+if (cleanup===true)
+{
+var parent = document.getElementById('yt_playlist_content_items_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+parent.innerHTML = "";
+}
+for (var i = 0; i < Math.min(3, items.length); i++) {
+//console.log('Anyadiendo: '+items[i].title);
+var random = random_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(items);
+yt_addVideoItem_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(items[random]);
+}
+}
+function yt_addVideoItem_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd (video)
+{
+var parent = document.getElementById('yt_playlist_content_items_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+var li = document.createElement('div');
+li.className="col-xs-12 col-sm-6 col-md-4";
+li.style="cursor: pointer";
+//li.setAttribute("tabindex", "0");
+parent.appendChild(li);
+var ddata = document.createElement('div');
+ddata.className="card card-blog card-plain";
+//ddata.setAttribute("tabindex", "0");
+li.appendChild(ddata);
+var ddata2 = document.createElement('div');
+ddata2.className="card-header card-header-image";
+ddata2.onclick = function () {yt_onPlayVideo_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(video)};
+ddata2.onkeyup = function (e) {if(e.which == 13 || e.keycode == 13)yt_onPlayVideo_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(video)};
+ddata2.setAttribute("tabindex", "0");
+ddata.appendChild(ddata2);
+var pic = document.createElement('img');
+pic.className="img img-raised";
+pic.src=video.thumbnail;
+pic.alt="video-thumbnail-umivale";
+//pic.setAttribute("tabindex", "0");
+ddata2.appendChild(pic);
+var shadow = document.createElement('div');
+shadow.className="colored-shadow";
+shadow.style="background-image: url("+ video.thumbnail +"); opacity: 1;";
+shadow.onclick = function () {yt_onPlayVideo_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(video)};
+ddata2.appendChild(shadow);
+var body = document.createElement('div');
+body.className="card-body";
+ddata.appendChild(body);
+var title = document.createElement('h3');
+title.className="card-title";
+title.style.height='52px';
+title.innerText=video.title;
+title.onclick = function () {yt_onPlayVideo_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(video)};
+body.appendChild(title);
+}
+// **************************************************************************************************
+// PLAYER
+function yt_closePlayer_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd()
+{
+var player = document.getElementById('modal fade_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+var iframe = document.getElementById('youtube-player-iframe-mini_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+iframe.src='about:blank';
+player.style.display='none';
+}
+function yt_closeDetail_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd()
+{
+var player = document.getElementById('youtube-player_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+player.style.display='none';
+player.className="modal fade";
+}
+function stopVideo() {
+playerInstance.stopVideo();
+}
+function rewind() {
+var currentTime = playerInstance.getCurrentTime();
+playerInstance.seekTo(currentTime - 30, true);
+playerInstance.pauseVideo();
+}
+function fastforward() {
+var currentTime = playerInstance.getCurrentTime();
+playerInstance.seekTo(currentTime + 30, true);
+playerInstance.pauseVideo();
+}
+function pause(){
+playerInstance.pauseVideo();
+}
+function play(){
+playerInstance.playVideo();
+}
+function yt_onPlayVideo_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd(video) {
+var player = document.getElementById('youtube-player_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+var title = document.getElementById('youtube-player-title_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+var iframe = document.getElementById('youtube-player-iframe-mini_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+var youtubeDate = document.getElementById('youtube-date_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+//console.log(video);
+title.innerText=video.title;
+iframe.src='https://www.youtube-nocookie.com/embed/' + video.videoId + '?autoplay=1&enablejsapi=1';
+iframe.setAttribute("videoid", video.videoId);
+player.style.display='block';
+player.className="modal show";
+$(document).on("keydown", function(event){
+return !(event.which == 32 || event.keyCode == 32);
+});
+//onYouTubeIframeAPIReadyCreateInstance();
+$(document).on("keyup", function(event){
+if(playerInstance === undefined || playerInstance === null)
+onYouTubeIframeAPIReadyCreateInstance();
+switch(event.which) {
+case 27: // ESC
+stopVideo();
+var playerElement = document.getElementById('youtube-player_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd');
+var iframe = $(player).find("iframe")[0];
+iframe.src = "about:blank";
+playerElement.style.display='none';
+playerElement.className="modal fade";
+$(document).off("keyup");
+$(document).off("keydown");
+break;
+case 32: // space (pause/play)
+var state = playerInstance.getPlayerState();
+if(state==1)
+pause();
+else
+play();
+break;
+case 37: // left (rewind)
+rewind();
+break;
+case 39: // right (fast-forward)
+fastforward();
+break;
+default: break; // exit this handler for other keys
+}
+event.preventDefault();
+});
+}
+//yt_loadPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd();
+if('listaReproduccion' == 'lista Reproduccion') {
+yt_selectPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd("FEATURED");
+} else {
+yt_loadPlaylist_8b48ec17_ebe2_417a_ad96_3fd1820e5dcd('PLDYBNR0VGdlZLtOPozfCdmUFHKol3pDfN');
+}
+//*******************************************************************************************************
+//GESTION DEL MODAL DEL VIDEO AL ABRIRLO Y CERRARLO
+$(".close.youtube-component-close-button").on("click", function(event) {
+var parentModal = $(this).closest('[id*="youtube-player_"]')[0];
+var iframe = $(parentModal).find("iframe")[0];
+iframe.src = "about:blank";
+$(document).off("keyup");
+$(document).off("keydown");
+});
+</script>
+</div></div><!--Configured containers Type: none-->
+<div class="column">
+<style>
+.web-call-actions-component-background-image-1{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-orange-header.jpg);
+}
+.web-call-actions-component-background-image-2{
+background-image: url(/.resources/umivale-templates-module/webresources/img/bg-blue-header.png);
+}
+</style>
+<div class="umivale-call-action-container web-call-actions-component-background-image-2">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+<div class="container-h3 margin-top-call-action-title">
+<h2 class="umivale-call-action-title">
+<div>Atenci&oacute;n a las personas con discapacidad</div>
+</h2>
+</div>
+<div class="container-button">
+<a href="/conocenos/atencion-personas-discapacidad" target="_blank" class="btn btn-round umivale-btn-orange" title="Pincha para acceder al contenido">
+<div>M&aacute;s informaci&oacute;n</div>
+</a>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+<div class="umivale-call-action-img-container">
+<img class="img img-raised img-rounded img-responsive img-umivale-transparent" src="/.imaging/mte/umivale-bootstrap-module/callActionImage/dam/umivale-activa/Discapacidad-material/home.jpg/jcr:content/persona-de-movilidad-reducida-dandole-la-mano-a-una-mujer.jpg" alt="home discapacidad" >
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div><div class="container-fluid umivale-container-nopadding" >
+<!--Configured containers Type: container-fluid-->
+<div class="column">
+<style>
+.web-links-component-background-color{
+background-color: #EEEEEE;
+}
+</style>
+<div class="section section-basic web-links-component-background-color">
+<div class="container">
+<div class="row text-center">
+<div class="title col-xs-12">
+<div class="imgcentro"><h2 class="umivale-section-title">También puede interesarte</h2></div>
+</div>
+<div class="umivale-section-description col-xs-12">
+<div>Umivale Activa pone a tu disposici&oacute;n tambi&eacute;n estos servicios</div>
+</div>
+</div>
+<div class="col-xs-12">
+<div class="row umivale-service-section">
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 umivale-service-column text-center">
+<div class="info">
+<a href="/preguntas-frecuentes/tambien-puede-interesarte/calendario-laboral" aria-label="Calendario Laboral" class="icon icon-info">
+<span class="material-icons umivale-text-blue icon-calendario-laboral "></span>
+<div class="hidden-lg hidden-md hidden-sm hidden xs">Link-icon</div>
+</a>
+<div class="link-item-title">
+<p class="info-title"><span>Calendario Laboral</span></p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 umivale-service-column text-center">
+<div class="info">
+<a href="/preguntas-frecuentes/tambien-puede-interesarte/atencion-al-cliente" aria-label="Atención al cliente" class="icon icon-info">
+<span class="material-icons umivale-text-blue icon-atencion-al-cliente"></span>
+<div class="hidden-lg hidden-md hidden-sm hidden xs">Link-icon</div>
+</a>
+<div class="link-item-title">
+<p class="info-title"><span>Atención al cliente</span></p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 umivale-service-column text-center">
+<div class="info">
+<a href="/salud-y-absentismo-laboral/calcula-valor-economico-absentismo-plantilla" aria-label="Calculadora de absentismo" class="icon icon-info">
+<span class="material-icons umivale-text-blue icon-calculadora-autonomo"></span>
+<div class="hidden-lg hidden-md hidden-sm hidden xs">Link-icon</div>
+</a>
+<div class="link-item-title">
+<p class="info-title"><span>Calculadora de absentismo</span></p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 umivale-service-column text-center">
+<div class="info">
+<a href="/conocenos/quienes-somos#conocenos-memoria" aria-label="Informe de actividades" class="icon icon-info">
+<span class="material-icons umivale-text-blue icon-memoria-actividad"></span>
+<div class="hidden-lg hidden-md hidden-sm hidden xs">Link-icon</div>
+</a>
+<div class="link-item-title">
+<p class="info-title"><span>Informe de actividades</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div></div>
+</div>        
+    </div>
+    </div>
+</div>
+<!-- Main Content: END -->
+
+<!-- Footer -->
+
+
+<footer class="footer footer-white footer-big umivale-dark-footer no-print">
+<div class="container">
+  <div class="content">
+	<div class="row">
+		<div class="col-md-3">
+			<p class="footer-title">Umivale Activa</p>
+			<p><p style="margin-left:0cm; margin-right:0cm">Asociaci&oacute;n voluntaria de empresas, sin &aacute;nimo de lucro, con el objeto de gestionar la seguridad y salud de sus trabajadoras y trabajadores.</p>
+
+<p>Somos la Mutua Colaboradora con la Seguridad Social n&ordm; 3.</p>
+</p>
+			<div class="text-center">	
+				
+							
+						<a href="/conocenos/quienes-somos" title="sello EFQM">
+								<img src="/.imaging/mte/umivale-bootstrap-module/footerLogo/dam/web-corporativa/calidad-y-distinciones/sello-EFQM.PNG/jcr:content/efqm2025.png" height="35" alt="sello EFQM">
+						</a>												  		
+				
+							
+						<a href="/conocenos/quienes-somos" title="sello Bequal">
+								<img src="/.imaging/mte/umivale-bootstrap-module/footerLogo/dam/fotos-paginas-web/logos-y-sellos/sello-Bequal.png/jcr:content/Logo%20Bequal%20Plus%20Umivale%20010-2019%20V.jpg" height="35" alt="sello Bequal">
+						</a>												  		
+				
+							
+						<a href="/conocenos/quienes-somos" title="sello igualtat">
+								<img src="/.imaging/mte/umivale-bootstrap-module/footerLogo/dam/fotos-paginas-web/logos-y-sellos/sello-Igualtat-Oportunitats.jpg/jcr:content/sello-Igualtat-Oportunitats.jpg" height="35" alt="sello igualtat">
+						</a>												  		
+				
+							
+						<a href="/" title="">
+								<img src="/.imaging/mte/umivale-bootstrap-module/footerLogo/dam/21.png/jcr:content/21.png" height="35" alt="">
+						</a>												  		
+				
+							
+						<a href="/conocenos/quienes-somos" title="sello carta diversidad">
+								<img src="/.imaging/mte/umivale-bootstrap-module/footerLogo/dam/web-corporativa/calidad-y-distinciones/sello-carta-diversidad.png/jcr:content/carta-diversidad-2026.jpg" height="35" alt="sello carta diversidad">
+						</a>												  		
+				
+							
+						<a href="/conocenos/quienes-somos" title="Logotipo 120 aniversario">
+								<img src="/.imaging/mte/umivale-bootstrap-module/footerLogo/dam/umivale-activa/120-logo.jpg/jcr:content/120-logo.jpg" height="35" alt="Logotipo 120 aniversario">
+						</a>												  		
+			</div>			  
+		 </div>
+	  
+			  <div class="col-md-3 col-sm-4">
+		        <p class="footer-title">Perfil del usuario</p>
+		        	<ul class="nav flex-column">
+				   			<li><a href="/empresa" title="Empresa">Empresa</a></li>
+				   			<li><a href="/autonomo" title="Autónoma/Autónomo">Autónoma/Autónomo</a></li>
+				   			<li><a href="/despacho" title="Despacho">Despacho</a></li>
+				   			<li><a href="/trabajador" title="Trabajadora/Trabajador">Trabajadora/Trabajador</a></li>
+		   	  		</ul>
+			  </div>
+			  <div class="col-md-3 col-sm-4">
+		        <p class="footer-title">Acerca de</p>
+		        	<ul class="nav flex-column">
+				   			<li><a href="/conocenos" title="Conócenos">Conócenos</a></li>
+				   			<li><a href="/actualidad/eventos-y-jornadas" title="Eventos y Jornadas">Eventos y Jornadas</a></li>
+				   			<li><a href="/formularios" title="Formularios">Formularios</a></li>
+				   			<li><a href="/actualidad" title="Actualidad">Actualidad</a></li>
+				   			<li><a href="/preguntas-frecuentes/tambien-puede-interesarte/atencion-al-cliente" title="Atención al cliente">Atención al cliente</a></li>
+				   			<li><a href="/preguntas-frecuentes/tambien-puede-interesarte/atencion-al-cliente" title="FAQ&#039;s">FAQ&#039;s</a></li>
+				   			<li><a href="/por-que-elegirnos/solicitud-asesoramiento" title="Solicitud de asesoramiento">Solicitud de asesoramiento</a></li>
+				   			<li><a href="/conocenos/trabaja-con-nosotros" title="Trabaja con nosotros">Trabaja con nosotros</a></li>
+		   	  		</ul>
+			  </div>
+			  <div class="col-md-3 col-sm-4">
+		        <p class="footer-title">Legal</p>
+		        	<ul class="nav flex-column">
+				   			<li><a href="/legal/aviso-legal" title="Aviso Legal">Aviso Legal</a></li>
+				   			<li><a href="/conocenos/licitaciones" title="Licitaciones">Licitaciones</a></li>
+				   			<li><a href="/portal-licitacion-electronica" title="Portal de licitación electrónica">Portal de licitación electrónica</a></li>
+				   			<li><a href="/legal/proteccion-de-datos" title="Protección de datos ">Protección de datos </a></li>
+				   			<li><a href="/legal/politica-de-cookies" title="Política de cookies">Política de cookies</a></li>
+				   			<li><a href="#" data-toggle="modal" data-target="#cookiesModal" title="Configuración de cookies">Configuración de cookies</a></li>
+				   			<li><a href="/legal/accesibilidad" title="Accesibilidad">Accesibilidad</a></li>
+				   			<li><a href="/portal-de-transparencia" title="Portal de la transparencia">Portal de la transparencia</a></li>
+		   	  		</ul>
+			  </div>
+	</div>
+</div>
+
+<hr>
+
+	<ul class="social-buttons text-center">
+        <!--<li><a href="https://www.facebook.com/UmivaleActiva" class="btn btn-just-icon btn-facebook umivale-rrss-btn"><span class="fa fa-facebook" title="facebook"></span><div class="hidden-lg hidden-md hidden-sm hidden xs">RRSS-Icon</div></a></li>-->
+        <li><a href="https://www.facebook.com/UmivaleActiva" class="btn-just-icon umivale-rrss-btn"><img src="/dam/web-corporativa/footer/icon_facebook--1-.svg" alt="Facebook Umivale Activa"></a></li>
+		<!--<li><a href="https://www.youtube.com/channel/UCz5RCfFlWPQJJisDPGqh5YQ" class="btn btn-just-icon btn-youtube umivale-rrss-btn"><span class="fa fa-youtube-play" title="youtube"></span><div class="hidden-lg hidden-md hidden-sm hidden xs">RRSS-Icon</div></a></li>-->
+        <li><a href="https://www.youtube.com/channel/UCz5RCfFlWPQJJisDPGqh5YQ" class="btn-just-icon umivale-rrss-btn"><img src="/dam/web-corporativa/footer/icon_youtube--1-.svg" alt="Youtube Umivale Activa"></a></li>
+		<!--<li><a href="https://twitter.com/umivaleactiva" class="btn btn-just-icon btn-twitter umivale-rrss-btn"><span class="fa fa-twitter" title="twitter"></span><div class="hidden-lg hidden-md hidden-sm hidden xs">RRSS-Icon</div></a></li>-->
+        <li><a href="https://twitter.com/umivaleactiva" class="btn-just-icon umivale-rrss-btn"><img src="/dam/web-corporativa/footer/icon_twitter--1-.svg" alt="Twitter Umivale Activa"></a></li>
+		<!--<li><a href="https://www.instagram.com/umivaleactiva/" class="btn btn-just-icon btn-instagram umivale-rrss-btn"><span class="fa fa-instagram" title="instagram"></span><div class="hidden-lg hidden-md hidden-sm hidden xs">RRSS-Icon</div></a></li>-->
+        <li><a href="https://www.instagram.com/umivaleactiva/" class="btn-just-icon umivale-rrss-btn"><img src="/dam/web-corporativa/footer/icon_instagram.svg" alt="Instagram Umivale Activa"></a></li>
+		<!--<li><a href="https://es.linkedin.com/company/umivaleactiva" class="btn btn-just-icon btn-linkedin umivale-rrss-btn"><span class="fa fa-linkedin" title="linkedin"></span><div class="hidden-lg hidden-md hidden-sm hidden xs">RRSS-Icon</div></a></li>-->
+        <li><a href="https://es.linkedin.com/company/umivaleactiva" class="btn-just-icon umivale-rrss-btn"><img src="/dam/web-corporativa/footer/icon_linkedin.svg" alt="Linkedin Umivale Activa"></a></li>
+    </ul>
+  <div class="copyright text-center"><p>Copyright &copy; 2025&nbsp;<strong>Umivale Activa&nbsp;</strong>- Todos los derechos reservados</p>
+</div>
+ </div>
+
+</footer>
+
+
+
+<!-- Cookies -->
+<div class="modal fade bd-example-modal-lg no-print in" id="cookiesPopup" tabindex="-1" role="dialog" aria-labelledby="cookiesPopupLabel" aria-hidden="true" data-backdrop="static" style="padding-right: 15px; display: none;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="container">
+          <div class="row">
+            <div class="cookiesFlexContainer">
+              <div class="cookiesTextContainer">
+                <h5 class="modal-title" id="cookiesPopupLabel"><span class="material-icons">info_outline</span>Configuración de cookies</h5>
+                <p>Este sitio web utiliza cookies para que podamos brindarle la mejor experiencia de usuario posible. La información de cookies se almacena en su navegador y realiza funciones tales como reconocerlo cuando regrese a nuestro sitio web y ayudar a nuestro equipo a comprender qué secciones le resultan más interesantes y útiles.</p>
+                        <p>Más información sobre nuestra <a href="/legal/politica-de-cookies" title="Política de cookies" target="_blank">Política de cookies</a></p>
+              </div>
+              <div class="cookiesButtonsContainer">
+                <!--<button class="cookiesButtonOutlined" data-toggle="modal" data-target="#cookiesModal">Ver configuración</button>-->
+                <button class="cookiesButtonSolid" onclick="cookies_rechazarCookies()">Rechazar todas</button>
+                <button class="cookiesButtonSolid" onclick="cookies_crearCookies(true, true)">Aceptar todas</button>
+              </div>
+            </div>
+            <div class="cookiesConfigLink">
+              <a data-toggle="modal" data-target="#cookiesModal">Ver configuración</a>
+            </div>             
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade bd-example-modal-lg no-print" id="cookiesModal" tabindex="-1" role="dialog" aria-labelledby="cookiesModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center"> 
+  	  	  	<img src="/dam/jcr:266f7093-6dd5-4448-8582-478937abeb16/umivale%20Activa%20Horizontal%20WEB.svg" class="cookies-logo-popup-width" alt="Umivale Activa" title="Umivale Activa">
+        <h5 class="modal-title" id="cookiesModalLabel">Panel de configuración de cookies</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+      </div>
+      <div class="modal-body">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="cookiesItemsContainer">
+                <h6>Cookies estrictamente necesarias</h6>
+                <p>Son las mismas que te permiten navegar en esta web y disponer de sus funciones y servicios. Puedes configurar tu navegador para bloquear o alertar sobre estas, pero algunas partes de la misma no funcionarán. Estas cookies no almacenan ninguna información de identificación personal.</p>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="cookiesItemsContainer">
+                <div class="cookiesItemsTitleContainer">
+                  <div>
+                    <h6>Cookies de personalización</h6>
+                    <p>El contenido se ajusta al uso realizado. Por ejemplo, si eliges uno de los perfiles iniciales (empresa, despacho, paciente o autónoma/o) en una futura conexión se mantendrá el perfil en el que iniciaste tu navegación.</p>
+                  </div>
+                  <div class="cookiesRadioButtonContainer">
+					  <div class="form-check form-check-radio">
+						  <label class="content-input">
+							<input type="radio" name="radioCookies" id="Radio2" value="false" onclick="checkRadioCookies()">Rechazar
+							<i></i>
+						  </label>
+					  </div>                  
+					  <div class="form-check form-check-radio">
+						  <label class="content-input">
+							<input type="radio" name="radioCookies" id="Radio1" value="true" onclick="checkRadioCookies()">Permitir
+							<i></i>
+						  </label>
+					  </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="cookiesItemsContainer" style="border-bottom: block;">
+                <div class="cookiesItemsTitleContainer">
+                  <div>
+                    <h6>Cookies de analítica y rendimiento</h6>
+                    <p>Este sitio web utiliza Google Analytics para recopilar información anónima sobre cuántas visitas recibe el site y las páginas más populares. Nos permite conocer qué secciones, temas, o campañas informativas son más efectivas y enfocar nuestro contenido hacia aquello que nos demanda el usuario. Mantener estas cookies habilitadas nos ayuda a mejorar nuestro sitio web.</p>
+                  </div>
+                  <div class="cookiesRadioButtonContainer">
+                      <div class="form-check form-check-radio">
+						  <label class="content-input">
+							<input type="radio" name="radioCookies2" id="Radio4" value="false" onclick="checkRadioCookies()">Rechazar
+							<i></i>
+						</label>
+                      </div>                  
+					  <div class="form-check form-check-radio">
+						<label class="content-input">
+							<input type="radio" name="radioCookies2" id="Radio3" value="true" onclick="checkRadioCookies()">Permitir
+							<i></i>
+						</label>
+					  </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="cookiesItemsContainer" style="border-bottom: none;">
+                <div class="cookiesItemsTitleContainer">
+                  <div>
+                    <h6>Enlaces a sitios web externos</h6>
+                    <p>Le informamos que esta web contiene enlaces a sitios web de terceros, cuyas políticas de privacidad son ajenas a la de umivale Activa. Al acceder a tales sitios web usted puede decidir si acepta sus políticas de privacidad y de cookies. Con carácter general, si navega por internet usted puede aceptar o rechazar las cookies de terceros desde las opciones de configuración de su navegador.</p>
+                  </div>
+                </div>
+              </div>
+            </div>            
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" data-dismiss="modal" class="cookiesButtonSolid">Cancelar</button>
+        <button id="cookiesButtonConfig" type="button" data-dismiss="modal" class="cookiesButtonSolid" onclick="cookies_ObtenerPermisos()">Aceptar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  
+  const cookies_scriptText = "dataLayer=[];(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W2X768G');";
+  
+  $(document).ready(() => { 
+  
+      $('#cookiesPopup').hide();
+  
+	  //Si ninguna cookie de permiso esta activa
+      cookies_mostrarOcultarBottomBar();
+	  
+	  //Si no permite permiso basico pero esta la cookie de profile, esta se quita
+	  if(umpu_getCookie("CONSENT_BASIC") == "" && umpu_getCookie("profile") != ""){
+	  		umpu_setCookie("profile", "", -365);
+	  }
+	  
+	  //Si permite cookie básica
+	  if(umpu_getCookie("CONSENT_BASIC") === "true"){
+	  	document.getElementById('Radio1').checked = true;
+	  }
+	  
+	  //Si permite cookie de terceros
+	  if(umpu_getCookie("CONSENT_THIRD") === "true"){
+	  	cookies_header_addScript(cookies_scriptText);
+	  	document.getElementById('Radio3').checked = true;
+	  }
+	  
+      if(localStorage.getItem('prefs')===false || localStorage.getItem('prefs')==="false") {
+        document.getElementById('Radio2').checked = true;
+      }
+    
+      if(localStorage.getItem('analytics')===false || localStorage.getItem('analytics')==="false") {
+        document.getElementById('Radio4').checked = true;
+      }
+      
+      if(localStorage.getItem('analytics')==="false" && localStorage.getItem('analytics')==="false") {
+        $('#cookiesPopup').hide();
+      } 	
+      
+      if((localStorage.getItem('prefs')==null || localStorage.getItem('prefs')==undefined) && (localStorage.getItem('analytics')==null || localStorage.getItem('analytics')==undefined)) {
+        document.getElementById('cookiesButtonConfig').classList.add("disabled");
+        document.getElementById('cookiesButtonConfig').setAttribute("disabled", "");
+      }      
+
+  });
+  
+  function checkRadioCookies() {
+    if((document.getElementById('Radio2').checked==true || document.getElementById('Radio1').checked==true) && (document.getElementById('Radio4').checked==true || document.getElementById('Radio3').checked==true)) {
+        document.getElementById('cookiesButtonConfig').classList.remove("disabled");
+        document.getElementById('cookiesButtonConfig').removeAttribute("disabled", "");    
+    }
+  }
+  
+  function cookies_rechazarCookies(){
+  	console.log('prefs: ' + 'false');
+  	localStorage.setItem('prefs', 'false');
+  	
+  	console.log('analytics: ' + 'false');
+  	localStorage.setItem('analytics', 'false');
+  	
+  	cookies_borrarCookies();
+  
+  	cookies_crearCookies(false, false);
+  }  
+  
+  function cookies_ObtenerPermisos(){
+  	var prefs = document.querySelector('input[name="radioCookies"]:checked').value;
+  	console.log('prefs: ' + prefs);
+  	localStorage.setItem('prefs', prefs);
+  	
+  	var analytics = document.querySelector('input[name="radioCookies2"]:checked').value;
+  	console.log('analytics: ' + analytics);
+  	localStorage.setItem('analytics', analytics);
+  	
+	cookies_borrarCookies();  
+  
+  	cookies_crearCookies(prefs, analytics);
+  }
+  
+  function cookies_borrarCookies() {
+    var cookies = document.cookie.split(";");
+
+    for (var i = 0; i < cookies.length; i++) {
+        var cookie = cookies[i];
+        var eqPos = cookie.indexOf("=");
+        var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+        document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+        document.cookie = name + "= ; expires=Thu, 01 Jan 1970 00:00:00 GMT;domain=."+window.location.hostname; 
+    }
+    
+    document.cookie = "_gat_UA-4140624-1=1;expires=Thu, 01 Jan 1970 00:00:00 GMT;domain=."+window.location.hostname;
+    document.cookie = "_gat_UA-234902847-1=1;expires=Thu, 01 Jan 1970 00:00:00 GMT;domain=."+window.location.hostname;
+    
+    console.log('****: ' + window.location.hostname);
+  }  
+  
+  function cookies_crearCookies(permitePrefs, permiteTerceros){
+   
+   document.cookie = "_gat_UA-4140624-1=1;expires=Thu, 01 Jan 1970 00:00:00 GMT;domain=."+window.location.hostname;
+   document.cookie = "_gat_UA-234902847-1=1;expires=Thu, 01 Jan 1970 00:00:00 GMT;domain=."+window.location.hostname;
+   
+  
+  	if(permitePrefs==="true" || permitePrefs===true){
+  		umpu_setCookie("CONSENT_BASIC", "true", 365);
+  	}
+  	
+  	if(permiteTerceros==="true" || permiteTerceros===true){
+  		umpu_setCookie("CONSENT_THIRD", "true", 365);
+  		cookies_header_addScript(cookies_scriptText);
+  	}
+  	
+  	cookies_ocultarBottomBar();
+  }
+  
+  function cookies_ocultarBottomBar(){
+  	$('#cookiesPopup').hide();
+  	
+  }
+  //Mostrar u ocultar cookies segun preferencias
+  function cookies_mostrarOcultarBottomBar(){
+  	var permitePrefs = umpu_getCookie("CONSENT_BASIC");
+  	var permiteTerceros = umpu_getCookie("CONSENT_THIRD");
+  	if(permitePrefs != "" || permiteTerceros != ""){
+		$('#cookiesPopup').hide();
+	}else{
+		$('#cookiesPopup').show();
+		$('.modal-backdrop.fade.in').hide();
+	}
+  }
+  //Añadir script al inicio del header
+  function cookies_header_addScript(cookies_scriptText){
+  	var script = document.createElement("script");
+	script.type="text/javascript";
+	script.innerHTML=cookies_scriptText;
+	document.head.insertBefore(script, document.head.firstChild);
+  }
+  //Añadir script al inicio del body
+  function cookies_body_addScript(cookies_scriptText){
+  	var script = document.createElement("script");
+	script.type="text/javascript";
+	script.innerHTML=cookies_scriptText;
+	document.body.insertBefore(script, document.body.firstChild);
+  }
+  //Añadir elemento al datalayer
+  function addElementToDatalayer(event, value){
+  	if(dataLayer !== undefinded)
+  		dataLayer.push({event: value});
+	else{
+		var script = document.createElement("script");
+		script.type="text/javascript";
+		script.innerHTML="dataLayer.push({"+event+": "+value+"})";
+		document.body.insertBefore(script, document.body.firstChild);
+	}
+		
+  }
+  
+  //Eventos
+  $( "#cookiesModal" ).on( "hide.bs.modal", function() {
+  	$('cookiesPopup').hide();
+  });
+  
+  $( "#cookiesModal a" ).on( "click", function() {
+  	$( "#cookiesModal a" ).removeClass("active");
+  	$(this).addClass("active");
+  });
+
+  </script>
+
+<!-- Footer: END -->    
+</body>
+</html>
