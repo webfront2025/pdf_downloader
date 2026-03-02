@@ -26,7 +26,7 @@ def main():
     config = AppConfig(
         input_excel_path="GRI_2017_2020 (1).xlsx",
         output_directory="downloads",
-        max_download=100,
+        max_download=100,        # OR  max_download=10
         #max_download=None,      # None = download all
         timeout_seconds=15,
         max_workers=3
